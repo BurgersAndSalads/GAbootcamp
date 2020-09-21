@@ -114,12 +114,12 @@ Graduation requires that 80% of deliverables be completed (working) and delivere
 
 [The Deliverables are listed in the Schedule](./SCHEDULE.md)
 
-[Repo to submit Deliverables](https://git.generalassemb.ly/sei-toronto/sei-33-5-deliverables)
+[Repo to submit Deliverables](https://git.generalassemb.ly/sei-toronto/sei-35-7-deliverables)
 
 ### Class Repo Structure
 
 ```
-/sei-33-5
+/sei-35-7
   /assessments
   /computer-science
   /projects
@@ -140,9 +140,9 @@ Graduation requires that 80% of deliverables be completed (working) and delivere
 You will have read-only access to the GA class repo.  However, you most certainly will want to be able to make changes (e.g., add notes, save code exercises, etc).  These changes will be saved to your own personal copy of GA's Student repo - known as a **fork**. To get this fork do the following:
 
 1. Make sure that you're logged in to your GA **Enterprise** GitHub account. If you have not signed up yet, here's the link to do so: [https://git.generalassemb.ly/join?source=header](https://git.generalassemb.ly/join?source=header)
-2. In another tab, browse to the GA class repo:  [https://git.generalassemb.ly/sei-toronto/sei-33-5](https://git.generalassemb.ly/sei-toronto/sei-33-5)
+2. In another tab, browse to the GA class repo:  [https://git.generalassemb.ly/sei-toronto/sei-35-7](https://git.generalassemb.ly/sei-toronto/sei-35-7)
 3. In the top-right corner of the page, click the `Fork` button.
-SEI-33-5
+SEI-35-7
 Now you will have a copy of the repo in **your** Enterprise GitHub account!
 
 #### Cloning Your Copy of the Repository Locally
@@ -155,10 +155,10 @@ Now that you have a copy of the class repo in your GitHub account, it's time to 
 4. In Terminal, type `git clone ` and follow it by pasting in the copied URL from the clipboard. The command should now look something like this (!!NOTE!!: don't type the "$". The $ is just a convention we coders use to indicate "hey, we are typing in the command line now"):
 
 ```
-$ git clone https://git.generalassemb.ly/YOUR-ENTERPRISE-GITHUB-USERNAME/sei-33-5
+$ git clone https://git.generalassemb.ly/YOUR-ENTERPRISE-GITHUB-USERNAME/sei-35-7
 ```
 
-You can now `$ cd sei-33-5` and check out your local copy of of the GA class repo!
+You can now `$ cd sei-35-7` and check out your local copy of of the GA class repo!
 
 #### Adding a git _remote_ for the original GA class repo
 
@@ -177,7 +177,7 @@ Note that by convention, the remote that points to the GitHub repo it was cloned
 However, in order to get the updates that the instructors push to the GA class repo, you will need to create another **remote** that points to GA's class repo that you forked:
 
 ```
-$ git remote add upstream https://git.generalassemb.ly/sei-toronto/sei-33-5.git
+$ git remote add upstream https://git.generalassemb.ly/sei-toronto/sei-35-7.git
 ```
 
 Note that by convention, the remote that points to the *original* GitHub repo that was forked is named **upstream**.
