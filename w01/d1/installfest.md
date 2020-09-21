@@ -33,7 +33,7 @@ Homebrew is a package manager that we will use to install various command line t
 Open up terminal, and paste the following command to install Homebrew. You might be prompted to install XCode Command Line Tools during the install process.
 
 ```
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
 If you are prompted to install the XCode CLI, say yes and your homebrew installation will continue.
@@ -400,7 +400,7 @@ Python 3's package manager, `pip3` should have automatically been installed with
 We will use `pip3` to install Django, a robust web framework for Python. We will be installing the latest version (3.x.x):
 
 ```
-pip3 install Django
+sudo pip3 install Django
 ```
 
 ## Installing Spectacle (Mac)
