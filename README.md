@@ -241,6 +241,7 @@ There will be 30 required code challenges that will help you get more practice w
 
 If/when you find yourself with extra time, look into these external resources:
 
+- [Edabit] (https://www.edabit.com/)
 - [Codewars](https://www.codewars.com/)
 - [LeetCode](https://www.leetcode.com/)
 - [CodeSignal](https://codesignal.com/)
