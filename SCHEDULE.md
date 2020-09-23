@@ -53,11 +53,11 @@
   <td>
     <a href="w01/d2/template-literals-walkthru.md">Template Literals</a></br></br>
     <a href="w01/d2/js-arrays.md">JS Arrays</a></br></br>
-    <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Wednesday</strong> <br /><em>(ideal: this Wednesday night)</em>
+    <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Wednesday</strong> <br /><em>(ideal: Wednesday midnight)</em>
   </td>
   <td>
     <a href="w01/d3/js-functions-and-scope.md">JS Functions & Scope</a></br></br>
-    <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: this Thursday night</em>
+    <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: Thursday midnight</em>
   </td>
   <td>
     <a href="w01/d4/dom-intro.md">Intro to the DOM</a></br></br>
@@ -81,13 +81,13 @@
     <a href="https://www.internetingishard.com/html-and-css/basic-web-pages/">Read Interneting Is Hard: Basic Web Pages</a>
   </td>
   <td>
-    <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: tonight)</em></br></br>
+    <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: Wednesday midnight)</em></br></br>
     <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Read Interneting Is Hard: Links and Images</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/hello-css/">Read Interneting Is Hard: Hello CSS</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read Interneting Is Hard: CSS Box Model</a>
   </td>
   <td>
-    <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: tonight)</em></br></br>
+    <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: Thursday Wednesday midnight)</em></br></br>
     <a href="https://www.internetingishard.com/html-and-css/css-selectors/">Read Interneting Is Hard: CSS Selectors</a></br></br>
     <a href="w01/d3/css-selectors-lab">CSS Selectors Lab (Deliverable)</a></br></br>
     <a href="https://flukeout.github.io/">CSS Diner</a></br></br>
