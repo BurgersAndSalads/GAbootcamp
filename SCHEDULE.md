@@ -53,11 +53,11 @@
   <td>
     <a href="w01/d2/template-literals-walkthru.md">Template Literals</a></br></br>
     <a href="w01/d2/js-arrays.md">JS Arrays</a></br></br>
-    <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: tonight)</em>
+    <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Wednesday</strong> <br /><em>(ideal: this Wednesday night)</em>
   </td>
   <td>
     <a href="w01/d3/js-functions-and-scope.md">JS Functions & Scope</a></br></br>
-    <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: tonight)</em>
+    <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: this Thursday night</em>
   </td>
   <td>
     <a href="w01/d4/dom-intro.md">Intro to the DOM</a></br></br>
