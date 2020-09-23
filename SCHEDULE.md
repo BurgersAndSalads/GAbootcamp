@@ -61,7 +61,7 @@
   </td>
   <td>
     <a href="w01/d4/dom-intro.md">Intro to the DOM</a></br></br>
-    <b>Outcomes with George the Career Coach (1:45-3:3:45)<br /><br />
+    <b>Outcomes with George the Career Coach (1:45-3:45)<br /><br />
     <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong>
   </td>
   <td>
