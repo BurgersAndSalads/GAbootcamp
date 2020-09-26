@@ -3,6 +3,96 @@
 
 ## Unit 1
 
+### Week 2 (September 28 - October 2)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w02/d1/css-flexbox-grid.md">CSS Flexbox & Grid</a></br></br>
+    <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #7)</a></br><strong>Due: Next Monday</strong>
+  </td>
+  <td>
+    <a href="w02/d2/js-classes.md">JS Classes</a></br></br>
+    <a href="w02/d2/js-classes-lab.md">JS Classes Lab</a>
+  </td>
+  <td>
+    <a href="w02/d3/jquery-part-1.md">jQuery part 1</a></br></br>
+    <a href="w02/d3/jquery-part-2.md">jQuery part 2</a>
+  </td>
+  <td>
+    <a href="w02/d4/playing-audio.md">Playing Audio in Browser</a></br></br>
+    <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Game Together</a>
+  </td>
+  <td> Work on Project 1 </td>
+</tr>
+
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w02/d1/responsive-design.md">Responsive Design</a></br></br>
+    <a href="w02/d1/arrow-functions.md">Arrow Functions</a></br></br>
+    <a href="w02/d1/media-queries-lab.md">Media Queries Lab</a>
+  </td>
+  <td>
+    <a href="w02/d2/array-iterator-methods.md">Array Iterator Methods</a></br></br>
+    <a href="w02/d2/this-keyword.md">'this' keyword</a>
+  </td>
+  <td>
+    <a href="w02/d3/jquery-lab.md">jQuery Lab (Deliverable #8)</a></br><strong>Due: Next Wednesday</strong>
+  </td>
+  <td>
+    <a href="w02/d4/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a></br></br>
+    Finish Labs</br></br>
+    Project 1
+  </td>
+    <td>
+    <a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+    <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #7)</a></br><strong>Due: Next Monday</strong></br></br>
+    <a href="w02/d1/media-queries-lab.md">Media Queries Lab</a></br></br>
+    <a href="https://flexboxfroggy.com/">Flexbox Froggy</a></br></br>
+    <a href="https://cssgridgarden.com/">CSS Grid Garden</a>
+  </td>
+
+  <td>
+    <a href="w02/d2/js-classes-lab.md">JS Classes Lab</a></br></br>
+    <a href="w02/d2/array-methods-lab.md">Array Methods Lab</a>
+  </td>
+
+  <td>
+    <a href="w02/d3/jquery-lab.md">jQuery Lab (Deliverable #8)</a></br><strong>Due: Next Wednesday</strong>
+  </td>
+
+  <td>
+    Project 1 & Review <br><br>
+    <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
+  </td>
+  <td> Project 1 </td>
+</tr>
+
+</tbody>
+</table>
+
+
 ### Week 1 (September 21 - 25)
 
 <table>
