@@ -1,4 +1,3 @@
-[Click here to view as a presentation](https://presentations.generalassemb.ly/6ee3de55641a94a8d04100c86ac7b95c#/1)
 
 ---
 <img src="https://i.imgur.com/e1w0oZI.png" width="900">
