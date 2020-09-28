@@ -44,11 +44,11 @@
   <td><strong>Afternoon</strong></td>
   <td>
     <a href="w02/d1/responsive-design.md">Responsive Design</a></br></br>
-    <a href="w02/d1/arrow-functions.md">Arrow Functions</a></br></br>
     <a href="w02/d1/media-queries-lab.md">Media Queries Lab</a>
   </td>
   <td>
     <a href="w02/d2/array-iterator-methods.md">Array Iterator Methods</a></br></br>
+    <a href="w02/d1/arrow-functions.md">Arrow Functions</a></br></br>
     <a href="w02/d2/this-keyword.md">'this' keyword</a>
   </td>
   <td>
