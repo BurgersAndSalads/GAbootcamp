@@ -29,8 +29,7 @@
     <a href="w02/d2/js-classes-lab.md">JS Classes Lab</a>
   </td>
   <td>
-    <a href="w02/d3/jquery-part-1.md">jQuery part 1</a></br></br>
-    <a href="w02/d3/jquery-part-2.md">jQuery part 2</a>
+      <a href="w02/d1/arrow-functions.md">Arrow Functions</a> and <a href="w02/d2/array-iterator-methods.md">Array Iterator Methods</a></br></br>
   </td>
   <td>
     <a href="w02/d2/this-keyword.md">'this' keyword</a><br><br>
@@ -50,9 +49,10 @@
   <td>
     <a href="w01/d5/js-callbacks.md">JavaScript Callbacks</a></br></br>
     <a href="w01/d5/js-callbacks-lab.md">JavaScript Callbacks Lab</a></br></br>
-    <a href="w02/d1/arrow-functions.md">Arrow Functions</a> and <a href="w02/d2/array-iterator-methods.md">Array Iterator Methods</a></br></br>
   </td>
   <td>
+      <a href="w02/d3/jquery-part-1.md">jQuery part 1</a></br></br>
+    <a href="w02/d3/jquery-part-2.md">jQuery part 2</a>
     <a href="w02/d3/jquery-lab.md">jQuery Lab (Deliverable #8)</a></br><strong>Due: Next Wednesday</strong>
   </td>
   <td>
