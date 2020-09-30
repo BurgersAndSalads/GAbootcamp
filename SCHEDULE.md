@@ -192,7 +192,7 @@
   </td>
   <td>
     <a href="w01/d5/dom-practice-lab-2.md">DOM Lab Part 2 (Deliverable #5)</a></br><strong>Due: Next Friday</strong></br></br>
-    <a href="w01/d5/tic-tac-toe">Tic Tac Toe (Deliverable #6)</a></br><strong>Due: Next Friday</strong><br /><em>(ideal: Sunday)</em></br><br />
+    <a href="w01/d5/tic-tac-toe">Tic Tac Toe (Deliverable #6)</a></br><strong>Due: Next Saturday</strong><br /></br><br />
     <a href="https://www.internetingishard.com/html-and-css/flexbox/">Read Interneting Is Hard: Flexbox</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/advanced-positioning/">Read Interneting Is Hard: Advanced Positioning</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/responsive-design/">Read Interneting Is Hard: Responsive Design</a></br></br>
