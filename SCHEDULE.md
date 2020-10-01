@@ -54,7 +54,7 @@
   <td>
       <a href="w02/d3/jquery-part-1.md">jQuery part 1</a></br></br>
     <a href="w02/d3/jquery-part-2.md">jQuery part 2</a><br><br>
-    <a href="w02/d3/jquery-lab.md">jQuery Lab (Deliverable #8)</a></br><strong>Due: Next Wednesday</strong>
+    <a href="w02/d3/jquery-lab.md">jQuery Lab</a></br>
   </td>
   <td>
     <strong>George 1:45-3:45pm</strong><br><br>
