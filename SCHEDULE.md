@@ -33,10 +33,10 @@
   </td>
   <td>
     <a href="w02/d2/array-iterator-methods.md">Array Iterator Methods</a><br><br>
-    <a href="w02/d2/this-keyword.md">'this' keyword</a><br><br>
   </td>
   <td>
   Attend SEI Final project presentations<br><br>
+  <a href="w02/d2/this-keyword.md">'this' keyword</a><br><br>
   </td>
 </tr>
 
