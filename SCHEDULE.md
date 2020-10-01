@@ -57,8 +57,8 @@
     <a href="w02/d3/jquery-lab.md">jQuery Lab (Deliverable #8)</a></br><strong>Due: Next Wednesday</strong>
   </td>
   <td>
-    George 1:45-3:45pm
-    <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Game Together</a>
+    George 1:45-3:45pm<br><br>
+    <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Game Together</a><br><br>
     <a href="w02/d4/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a></br></br>
     Project 1 Pitches
   </td>
