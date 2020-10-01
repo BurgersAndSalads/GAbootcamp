@@ -29,9 +29,10 @@
     <a href="w02/d2/js-classes-lab.md">JS Classes Lab</a>
   </td>
   <td>
-      <a href="w02/d1/arrow-functions.md">Arrow Functions</a> and <a href="w02/d2/array-iterator-methods.md">Array Iterator Methods</a></br></br>
+      <a href="w02/d1/arrow-functions.md">Arrow Functions</a></br></br>
   </td>
   <td>
+    <a href="w02/d2/array-iterator-methods.md">Array Iterator Methods</a><br><br>
     <a href="w02/d2/this-keyword.md">'this' keyword</a><br><br>
     <a href="w02/d4/playing-audio.md">Playing Audio in Browser</a></br></br>
     <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Game Together</a>
