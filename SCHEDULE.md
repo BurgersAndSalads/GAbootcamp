@@ -58,9 +58,9 @@
   </td>
   <td>
     <strong>George 1:45-3:45pm</strong><br><br>
+    Project 1 Proposals<br><br>
     <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Game Together</a><br><br>
     <a href="w02/d4/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a></br></br>
-    Project 1 Pitches
   </td>
     <td>
     Work on Project 1
