@@ -36,7 +36,9 @@
     <a href="w02/d2/this-keyword.md">'this' keyword</a><br><br>
     <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Game Together</a>
   </td>
-  <td> Work on Project 1 </td>
+  <td>
+  <br><a href="w02/d4/playing-audio.md">Playing Audio in Browser</a></br></br>
+  </td>
 </tr>
 
 
@@ -61,7 +63,7 @@
     Project 1
   </td>
     <td>
-    <a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
+    Work on Project 1
   </td>
 </tr>
 
@@ -80,14 +82,15 @@
   </td>
 
   <td>
-    <a href="w02/d3/jquery-lab.md">jQuery Lab (Deliverable #8)</a></br><strong>Due: Next Wednesday</strong>
+    <a href="w02/d3/jquery-lab.md">jQuery Lab</a></br></strong>
   </td>
 
   <td>
     Project 1 & Review <br><br>
-    <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
   </td>
-  <td> Project 1 </td>
+  <td> Project 1 <br><br>
+  <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
+   </td>
 </tr>
 
 </tbody>
