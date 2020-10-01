@@ -34,7 +34,6 @@
   <td>
     <a href="w02/d2/array-iterator-methods.md">Array Iterator Methods</a><br><br>
     <a href="w02/d2/this-keyword.md">'this' keyword</a><br><br>
-    <a href="w02/d4/playing-audio.md">Playing Audio in Browser</a></br></br>
     <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Game Together</a>
   </td>
   <td> Work on Project 1 </td>
