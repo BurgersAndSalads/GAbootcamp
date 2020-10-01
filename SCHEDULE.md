@@ -60,7 +60,7 @@
   <td>
     <a href="w02/d4/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a></br></br>
     Finish Labs</br></br>
-    Project 1
+    Project 1 Pitches
   </td>
     <td>
     Work on Project 1
