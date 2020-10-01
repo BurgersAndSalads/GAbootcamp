@@ -34,7 +34,6 @@
   <td>
     <a href="w02/d2/array-iterator-methods.md">Array Iterator Methods</a><br><br>
     <a href="w02/d2/this-keyword.md">'this' keyword</a><br><br>
-    <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Game Together</a>
   </td>
   <td>
   <br><a href="w02/d4/playing-audio.md">Playing Audio in Browser</a></br></br>
@@ -58,6 +57,8 @@
     <a href="w02/d3/jquery-lab.md">jQuery Lab (Deliverable #8)</a></br><strong>Due: Next Wednesday</strong>
   </td>
   <td>
+    George 1:45-3:45pm
+    <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Game Together</a>
     <a href="w02/d4/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a></br></br>
     Project 1 Pitches
   </td>
