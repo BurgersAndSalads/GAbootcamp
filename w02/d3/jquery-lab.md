@@ -6,7 +6,7 @@
 
 This lab provides an opportunity to practice working with jQuery.
 
-This lab **is a deliverable**.
+This lab **is optionally a deliverable**. (If you do submit it, we'll count it.)
 
 > **Note:** This can be a pair programming activity or done independently.
 
