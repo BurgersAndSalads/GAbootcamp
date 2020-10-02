@@ -62,7 +62,6 @@
   </td>
   <td>
     <br><a href="w02/d4/playing-audio.md">Playing Audio in Browser</a></br></br>
-    <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Game Together</a><br><br>
     <a href="w02/d4/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a></br></br>
     Work on Project 1
   </td>
@@ -89,8 +88,10 @@
   <td>
     Project 1 & Review <br><br>
   </td>
-  <td> Project 1 <br><br>
-  <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
+  <td>
+    Review <a href="w01/d5/guide-to-building-a-browser-game.md">Building a Game</a><br><br>
+    Work on Project 1 <br><br>
+    Prepare <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
    </td>
 </tr>
 
