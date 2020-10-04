@@ -30,6 +30,7 @@
   </td>
   <td> Work on Project 1 </td>
   <td>
+    Submit Project 1<br><br>
     <strong>Unit 2</strong> material begins:<br><br>
     <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br>
   </td>
