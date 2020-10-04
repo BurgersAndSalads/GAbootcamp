@@ -14,6 +14,7 @@
   <th>Wednesday</th>
   <th>Thursday</th>
   <th>Friday</th>
+  <th>Tuesday Oct 11<br>(after the break)</th>
 </tr>
 </thead>
 <tbody>
@@ -28,6 +29,10 @@
     <a href="computer-science/02-cs-recursion">Recursion Problems</a>
   </td>
   <td> Work on Project 1 </td>
+  <td>
+    <strong>Unit 2</strong> material begins:<br><br>
+    <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br>
+  </td>
   <td> Project 1 Presentations </td>
 </tr>
 
@@ -39,6 +44,7 @@
   <td> Work on Project 1 </td>
   <td> Work on Project 1 </td>
   <td> Work on Project 1 </td>
+  <td><a href="w04/d1/intro-to-node.md">Intro to Node</a></td>
   <td> Project 1 Assessment </td>
 </tr>
 
@@ -51,6 +57,7 @@
   <td> Project 1 </td>
   <td> Project 1 </td>
   <td> Review Unit 1 & Finish Labs / Project 1</td>
+  <td> Lookahead/Prep for Unit 2</td>
 </tr>
 
 </tbody>
