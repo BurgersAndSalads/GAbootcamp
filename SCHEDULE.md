@@ -23,10 +23,10 @@
   <td><strong>Morning</strong></td>
   <td> Work on Project 1 </td>
   <td>
-    <a href="w03/d2/deploy-ghpages.md">Deploy to GitHub Pages</a>
+    Work on Project 1
   </td>
   <td>
-    <a href="computer-science/02-cs-recursion">Recursion Problems</a>
+    Work on Project 1
   </td>
   <td> Work on Project 1 </td>
   <td>
@@ -39,10 +39,17 @@
 <tr>
   <td><strong>Afternoon</strong></td>
   <td>
-    <a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
+    <a href="computer-science/01-cs-big-o-notation">CS: Big O Notation</a><br><br>
+    Work on Project 1
   </td>
-  <td> Work on Project 1 </td>
-  <td> Work on Project 1 </td>
+  <td>
+    <a href="w03/d2/deploy-ghpages.md">Deploy to GitHub Pages</a><br><br>
+    Work on Project 1
+  </td>
+  <td>
+        <a href="computer-science/02-cs-recursion">Recursion Problems</a><br><br>
+    Work on Project 1
+  </td>
   <td> Work on Project 1 </td>
   <td><a href="w04/d1/intro-to-node.md">Intro to Node</a></td>
   <td> Project 1 Assessment </td>
