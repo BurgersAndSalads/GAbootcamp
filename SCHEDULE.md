@@ -3,6 +3,59 @@
 
 ## Unit 1
 
+### Week 3 (October 5 - 9)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td> Work on Project 1 </td>
+  <td>
+    <a href="w03/d2/deploy-ghpages.md">Deploy to GitHub Pages</a>
+  </td>
+  <td>
+    <a href="computer-science/02-cs-recursion">Recursion Problems</a>
+  </td>
+  <td> Work on Project 1 </td>
+  <td> Project 1 Presentations </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
+  </td>
+  <td> Work on Project 1 </td>
+  <td> Work on Project 1 </td>
+  <td> Work on Project 1 </td>
+  <td> Project 1 Assessment </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> Project 1 </td>
+  <td>
+    <a href="https://my.generalassemb.ly/activities/773">MyGA - Recursion (attempt exercises)</a>
+  </td>
+  <td> Project 1 </td>
+  <td> Project 1 </td>
+  <td> Review Unit 1 & Finish Labs / Project 1</td>
+</tr>
+
+</tbody>
+</table>
+
 ### Week 2 (September 28 - October 2)
 
 <table>
