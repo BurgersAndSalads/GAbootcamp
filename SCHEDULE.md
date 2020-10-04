@@ -48,7 +48,7 @@
     Work on Project 1
   </td>
   <td>
-        <a href="computer-science/02-cs-recursion">Recursion Problems</a><br><br>
+        <a href="computer-science/02-cs-recursion">CS: Recursion Problems</a><br><br>
     Work on Project 1
   </td>
   <td> Work on Project 1 </td>
