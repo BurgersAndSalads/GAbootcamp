@@ -64,7 +64,7 @@
   </td>
   <td> Project 1 </td>
   <td> Project 1 </td>
-  <td> Review Unit 1 & Finish Labs / Project 1<br><br>
+  <td> Finish Labs<br><br>
     Lookahead/Prep for Unit 2
   </td>
   <td> Lookahead/Prep for Unit 2</td>
