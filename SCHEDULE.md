@@ -13,7 +13,7 @@
   <th>Tuesday</th>
   <th>Wednesday</th>
   <th>Thursday</th>
-  <th style="background-color:cyan">Friday</th>
+  <th>Friday</th>
   <th>Tuesday Oct 11<br>(after the break)</th>
 </tr>
 </thead>
