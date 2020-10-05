@@ -3,6 +3,76 @@
 
 ## Unit 1
 
+### Week 3 (October 5 - 9)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+  <th>Tuesday Oct 11<br>(after the break)</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td> Work on Project 1 </td>
+  <td>
+    Work on Project 1
+  </td>
+  <td>
+    Work on Project 1
+  </td>
+  <td> Work on Project 1 </td>
+  <td>
+    Submit Project1<br><br>
+    <strong>Unit 2 material begins:</strong><br><br>
+    <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br>
+  </td>
+  <td> Project 1 Presentations </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="computer-science/01-cs-big-o-notation">CS: Big O Notation</a><br><br>
+    Work on Project 1
+  </td>
+  <td>
+    <a href="w03/d2/deploy-ghpages.md">Deploy to GitHub Pages</a><br><br>
+    Work on Project 1
+  </td>
+  <td>
+        <a href="computer-science/02-cs-recursion">CS: Recursion Problems</a><br><br>
+    Work on Project 1
+  </td>
+  <td> Work on Project 1 </td>
+  <td><a href="w04/d1/intro-to-node.md">Intro to Node</a></td>
+  <td> Project 1 Assessment </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> Project 1 </td>
+  <td>
+    <a href="https://my.generalassemb.ly/activities/773">MyGA - Recursion (attempt exercises)</a>
+  </td>
+  <td> Project 1 </td>
+  <td> Project 1 </td>
+  <td> Finish Labs<br><br>
+    Lookahead/Prep for Unit 2
+  </td>
+  <td> Lookahead/Prep for Unit 2</td>
+</tr>
+
+</tbody>
+</table>
+
 ### Week 2 (September 28 - October 2)
 
 <table>
@@ -29,15 +99,14 @@
     <a href="w02/d2/js-classes-lab.md">JS Classes Lab</a>
   </td>
   <td>
-    <a href="w02/d3/jquery-part-1.md">jQuery part 1</a></br></br>
-    <a href="w02/d3/jquery-part-2.md">jQuery part 2</a>
+      <a href="w02/d1/arrow-functions.md">Arrow Functions</a></br></br>
   </td>
   <td>
-    <a href="w02/d2/this-keyword.md">'this' keyword</a><br><br>
-    <a href="w02/d4/playing-audio.md">Playing Audio in Browser</a></br></br>
-    <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Game Together</a>
+    <a href="w02/d2/array-iterator-methods.md">Array Iterator Methods</a><br><br>
   </td>
-  <td> Work on Project 1 </td>
+  <td>
+  Attend SEI Final project presentations<br><br>
+  </td>
 </tr>
 
 
@@ -50,18 +119,21 @@
   <td>
     <a href="w01/d5/js-callbacks.md">JavaScript Callbacks</a></br></br>
     <a href="w01/d5/js-callbacks-lab.md">JavaScript Callbacks Lab</a></br></br>
-    <a href="w02/d1/arrow-functions.md">Arrow Functions</a> and <a href="w02/d2/array-iterator-methods.md">Array Iterator Methods</a></br></br>
   </td>
   <td>
-    <a href="w02/d3/jquery-lab.md">jQuery Lab (Deliverable #8)</a></br><strong>Due: Next Wednesday</strong>
+      <a href="w02/d3/jquery-part-1.md">jQuery part 1</a></br></br>
+    <a href="w02/d3/jquery-part-2.md">jQuery part 2</a><br><br>
+    <a href="w02/d3/jquery-lab.md">jQuery Lab</a></br>
   </td>
   <td>
+    <strong>George 1:45-3:45pm</strong><br><br>
+    Project 1 Proposals<br><br>
+    <a href="w02/d2/this-keyword.md">'this' keyword</a><br><br>
+  </td>
+  <td>
+    <br><a href="w02/d4/playing-audio.md">Playing Audio in Browser</a></br></br>
     <a href="w02/d4/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a></br></br>
-    Finish Labs</br></br>
-    Project 1
-  </td>
-    <td>
-    <a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
+    Work on Project 1
   </td>
 </tr>
 
@@ -80,14 +152,17 @@
   </td>
 
   <td>
-    <a href="w02/d3/jquery-lab.md">jQuery Lab (Deliverable #8)</a></br><strong>Due: Next Wednesday</strong>
+    <a href="w02/d3/jquery-lab.md">jQuery Lab</a></br></strong>
   </td>
 
   <td>
     Project 1 & Review <br><br>
-    <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
   </td>
-  <td> Project 1 </td>
+  <td>
+    Review <a href="w01/d5/guide-to-building-a-browser-game.md">Building a Game</a><br><br>
+    Work on Project 1 <br><br>
+    Prepare <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
+   </td>
 </tr>
 
 </tbody>
@@ -172,7 +247,7 @@
     <a href="https://www.internetingishard.com/html-and-css/basic-web-pages/">Read Interneting Is Hard: Basic Web Pages</a>
   </td>
   <td>
-    <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: night of Arrays lecture)</em></br></br>
+    <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Wednesday</strong> <br /><em>(ideal: night of Arrays lecture)</em></br></br>
     <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Read Interneting Is Hard: Links and Images</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/hello-css/">Read Interneting Is Hard: Hello CSS</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read Interneting Is Hard: CSS Box Model</a>
@@ -192,7 +267,7 @@
   </td>
   <td>
     <a href="w01/d5/dom-practice-lab-2.md">DOM Lab Part 2 (Deliverable #5)</a></br><strong>Due: Next Friday</strong></br></br>
-    <a href="w01/d5/tic-tac-toe">Tic Tac Toe (Deliverable #6)</a></br><strong>Due: Next Friday</strong><br /><em>(ideal: Sunday)</em></br><br />
+    <a href="w01/d5/tic-tac-toe">Tic Tac Toe (Deliverable #6)</a></br><strong>Due: Next Saturday</strong><br /></br><br />
     <a href="https://www.internetingishard.com/html-and-css/flexbox/">Read Interneting Is Hard: Flexbox</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/advanced-positioning/">Read Interneting Is Hard: Advanced Positioning</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/responsive-design/">Read Interneting Is Hard: Responsive Design</a></br></br>
