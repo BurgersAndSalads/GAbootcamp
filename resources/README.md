@@ -5,6 +5,6 @@
 ### How to use our card styles: ###
 - Download the "card-deck-css/" folder. Make sure your html file is at the same level of the "card-deck-css/" folder NOT not inside it.
 - These classes correspond to images in the images/folder
-- There are also styles for rotating cards - check out the <a href="card-deck-example.html">example</a> to see how to use this.
+- There are also styles for rotating cards - check out the <a href="card-deck-example.html">example rendering</a> to see how to use them in more detail.
 
 So yeah, you can have beautiful looking cards by just adding a class to something.
