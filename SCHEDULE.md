@@ -23,16 +23,21 @@
   <td><strong>Morning</strong></td>
   <td> Work on Project 1 </td>
   <td>
+    <a href="computer-science/01-cs-big-o-notation">CS: Big O<br> Notation</a><br><br>
     Work on Project 1
   </td>
   <td>
+    <a href="w02/d4/playing-audio.md">Playing Audio in Browser</a></br></br>
     Work on Project 1
   </td>
-  <td> Work on Project 1 </td>
+  <td>
+    <a href="w03/d2/deploy-ghpages.md">Deploy to GitHub Pages</a><br><br>
+    Work on Project 1 </td>
   <td>
     Submit Project1<br><br>
     <strong>Unit 2 material begins:</strong><br><br>
-    <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br>
+    <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br><br>
+    <a href="w04/d1/intro-to-node.md">Intro to NodeJS</a>
   </td>
   <td> Project 1 Presentations </td>
 </tr>
@@ -40,19 +45,19 @@
 <tr>
   <td><strong>Afternoon</strong></td>
   <td>
-    <a href="computer-science/01-cs-big-o-notation">CS: Big O Notation</a><br><br>
     Work on Project 1
   </td>
   <td>
-    <a href="w03/d2/deploy-ghpages.md">Deploy to GitHub Pages</a><br><br>
     Work on Project 1
   </td>
   <td>
-        <a href="computer-science/02-cs-recursion">CS: Recursion Problems</a><br><br>
     Work on Project 1
   </td>
   <td> Work on Project 1 </td>
-  <td><a href="w04/d1/intro-to-node.md">Intro to Node</a></td>
+  <td>
+    <a href="w04/d1/intro-to-express.md">Intro to Express Pt.1</a></br><br>
+    <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a>
+  </td>
   <td> Project 1 Assessment </td>
 </tr>
 
@@ -60,11 +65,11 @@
   <td><strong>Homework</strong></td>
   <td> Project 1 </td>
   <td>
-    <a href="https://my.generalassemb.ly/activities/773">MyGA - Recursion (attempt exercises)</a>
+     Project 1
   </td>
   <td> Project 1 </td>
   <td> Project 1 </td>
-  <td> Finish Labs<br><br>
+  <td>
     Lookahead/Prep for Unit 2
   </td>
   <td> Lookahead/Prep for Unit 2</td>
