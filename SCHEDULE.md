@@ -58,7 +58,9 @@
 
 <tr>
   <td><strong>Homework</strong></td>
-  <td> Project 1 <br>MyGA - Big O Notation</td>
+  <td> Project 1
+      Prepare <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
+  </td>
   <td>
     <a href="https://my.generalassemb.ly/activities/773">MyGA - Recursion (attempt exercises)</a>
   </td>
