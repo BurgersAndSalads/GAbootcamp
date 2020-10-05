@@ -1,8 +1,8 @@
-###What is this?###
+### What is this? ###
 - Cardstarter.css has a bunch of classes such as ".card.h09" (9 of hearts) and ".card.sA" (ace of spades) and ".card-back-blue" (back of card - blue deck) and ".card-back-red"
 - You can use these for example by doing <div class="card d10">
 
-###How to use our card styles:###
+### How to use our card styles: ###
 - Download the "card-deck-css/" folder. Make sure your html file is at the same level of the "card-deck-css/" folder NOT not inside it.
 - These classes correspond to images in the images/folder
 - There are also styles for rotating cards - check out the <a href="card-deck-example.html">example</a> to see how to use this.
