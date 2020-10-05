@@ -63,7 +63,9 @@
 
 <tr>
   <td><strong>Homework</strong></td>
-  <td> Project 1 </td>
+  <td> Project 1
+      Prepare <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
+  </td>
   <td>
      Project 1
   </td>
