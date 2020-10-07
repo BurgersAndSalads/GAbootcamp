@@ -14,7 +14,7 @@
   <th>Wednesday</th>
   <th>Thursday</th>
   <th>Friday</th>
-  <th>Tuesday Oct 11<br>(after the break)</th>
+  <th>Tuesday Oct 13<br>(after the break)</th>
 </tr>
 </thead>
 <tbody>
