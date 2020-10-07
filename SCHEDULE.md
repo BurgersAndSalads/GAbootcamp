@@ -38,7 +38,7 @@
     <a href="w04/d1/intro-to-node.md">Intro to NodeJS</a>
   </td>
   <td>
-    Submit Project1<br><br>
+    Project 1 Due<br><br>
     Project 1 Presentations
   </td>
 </tr>
