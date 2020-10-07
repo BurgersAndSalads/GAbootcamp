@@ -33,12 +33,13 @@
     <a href="w03/d2/deploy-ghpages.md">Deploy to GitHub Pages</a><br><br>
     Work on Project 1 </td>
   <td>
-    Submit Project1<br><br>
     <strong>Unit 2 material begins:</strong><br><br>
     <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br><br>
     <a href="w04/d1/intro-to-node.md">Intro to NodeJS</a>
   </td>
-  <td> Project 1 Presentations </td>
+  <td>Project 1 Presentations<br><br>
+      Submit Project1<br>
+  </td>
 </tr>
 
 <tr>
