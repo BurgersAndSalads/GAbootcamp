@@ -37,8 +37,9 @@
     <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br><br>
     <a href="w04/d1/intro-to-node.md">Intro to NodeJS</a>
   </td>
-  <td>Project 1 Presentations<br><br>
-      Submit Project1<br>
+  <td>
+    Submit Project1<br><br>
+    Project 1 Presentations
   </td>
 </tr>
 
