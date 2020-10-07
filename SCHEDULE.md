@@ -50,10 +50,10 @@
     Work on Project 1
   </td>
   <td>
-    Work on Project 1
-  </td>
-  <td> Work on Project 1 <br><br>
+    Work on Project 1<br><br>
     <a href="w02/d4/playing-audio.md">Playing Audio in Browser</a>
+  </td>
+  <td> Work on Project 1
   </td>
   <td>
     <a href="w04/d1/intro-to-express.md">Intro to Express Pt.1</a></br><br>
