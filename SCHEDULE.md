@@ -59,7 +59,8 @@
   </td>
   <td>
     <a href="w04/d1/intro-to-express.md">Intro to Express Pt.1</a></br><br>
-    <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a>
+    <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a><br><br>
+    <strong>George at 4pm</strong>
   </td>
   <td> Project 1 Assessment </td>
 </tr>
