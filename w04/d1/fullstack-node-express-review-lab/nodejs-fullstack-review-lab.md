@@ -1,6 +1,6 @@
 ### Additional Serverside Review Lab. DM Alex if anything is broken. ###
 <br>
-Tasks 1-4 below are meant to give you additional conceptual and syntax review of serverside stuff. The most important are probably tasks 1-3.
+Tasks 1-4 below are meant to give you additional conceptual and syntax review of serverside stuff. This is not a deliverable, but if you want to submit your answers, please put it all in a git repo and slack Alex the link.
 <br><br>
 <hr>
 <div>
