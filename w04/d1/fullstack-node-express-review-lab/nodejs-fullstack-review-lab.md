@@ -1,7 +1,7 @@
 ### Additional Serverside Review Lab. DM Alex if anything is broken. ###
-
+<br><br>
 Tasks 1-4 below are meant to give you additional conceptual and syntax review of serverside stuff. The most important are probably tasks 1-3.
-
+<br><br>
 <div>
 <span><div><ul>
   <li><div><span style="background-color: rgb(255, 250, 165); font-weight: bold;-evernote-highlight:true;"><strong>Task 1/4: Intro to fullstack review </strong><br><br></span></div></li><ul><li><div>Consider this picture in the context of someone loading &quot;<a href="http://google.com/">google.com/</a>&quot; on Chrome: <img src="Evernote.enex_files/Image.png" type="image/png" data-filename="Image.png"/></div></li><ol><li><div>In this picture, who or what does &quot;client&quot; mean?</div></li><li><div>What is the server? Is it a program or a machine? In your own words, what is the most important function the server will do?</div></li><li><div>What does &quot;REQUEST&quot; refer to here? What are the 2 most common types of requests? What does the request line contain? What do the request &quot;headers&quot; contain? What does the request body contain?</div></li><li><div>What does &quot;RESPONSE&quot; refer to here? What would the response code look like, roughly speaking?</div></li></ol><li><div><span style="font-weight: bold;">Vocabulary:</span> What are the 7 parts of this diagram?</div></li><ul><li><div><img src="Evernote.enex_files/Image [1].png" type="image/png" data-filename="Image.png"/></div></li></ul></ul>
