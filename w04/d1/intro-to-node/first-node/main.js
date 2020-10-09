@@ -12,6 +12,17 @@
 //   console.log('done creating file');
 // });
 
-const daysOfWeek = require('./days-of-week');
+// const daysOfWeek = require('./days-of-week'); //// --- > {}
 
-console.log(daysOfWeek);
+// console.log(daysOfWeek);
+
+// daysOfWeek.weekdays  ---> {}.weekdays
+
+// {}.getWeekday ----> undefined()
+
+// Don't specify path when module is in node_modules
+const request = require('request');
+
+request('http://jsonplaceholder.typicode.com/users', function(err, res, body) {
+  console.log(body);
+});
