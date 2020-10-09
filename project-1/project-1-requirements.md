@@ -20,7 +20,7 @@ Lastly, in addition to presenting your projects next Friday, you will be require
 
 ## Planning & Presentation Requirements
 
-### Planning - Due This Thursday:
+### Planning - Due This Friday:
 
 - You will share:
 
