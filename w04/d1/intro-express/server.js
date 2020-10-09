@@ -1,10 +1,14 @@
 // Load express
 const express = require('express');
+const path = require('path');
 
 // Create our express app
 const app = express();
 
 // Configure the app (app.set)
+app.set('view engine', 'ejs');
+// WHERE IN MY APP ARE ALL THE EJS FILES LOCATED!!!
+app.set('views', path.join(__dirname, 'views'));
 
 // Mount middleware (app.use)
 
@@ -23,18 +27,18 @@ app.get('/users', function(req, res) {
 });
 
 app.get('/home', function(req, res) {
-  res.send('<h1>Home PAge</h1>');
+  res.render('home');
 });
 
 // BE CAREFUL!!!!!!!!!!!
 
-app.get('/cars', function(req, res) {
-  res.send("Here's a list of my cars...");
-});
+// app.get('/cars', function(req, res) {
+//   res.send("Here's a list of my cars...");
+// });
 
-app.post('/cars', function(req, res) {
-  res.send('Thanks for the new car!');
-});
+// app.post('/cars', function(req, res) {
+//   res.send('Thanks for the new car!');
+// });
 
 //  START THE SERVER!!!!!
 
