@@ -9,8 +9,20 @@
 </head>
 
 <body>
-  <h1>Home Page COMING FROM REDIRECT</h1>
+  <h1>Todos</h1>
+  <ul>
+    <!-- THIS IS A COMMENT!!! -->
 
+
+    <% todos.forEach(function(todo){ %>
+    <li>
+      <%= todo.todo %>
+      -
+      <%= todo.done ? 'done' : 'pending'%>
+    </li>
+    <% }); %>
+  </ul>
 </body>
+
 
 </html>
