@@ -41,8 +41,9 @@
 <tr>
   <td><strong>Afternoon</strong></td>
   <td>
-    <a href="w04/d1/intro-to-express.md">Intro to Express</a></br>
-    <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a>
+    <a href="w04/d1/intro-to-express.md">Intro to Express</a></br><br>
+    <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a><br><br>
+    <a href="w04/d1/fullstack-node-express-review-lab/nodejs-fullstack-review-lab.md">Additional Fullstack, Node, Express, Ejs Review Exercises</a><br><br>
   </td>
   <td>
     <a href="w04/d2/express-middleware.md">Express Middleware</a></br></br>
