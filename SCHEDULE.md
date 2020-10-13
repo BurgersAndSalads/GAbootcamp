@@ -21,7 +21,7 @@
 <tr>
   <td><strong>Morning</strong></td>
   <td>
-    <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br>
+    <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br><br>
     <a href="w04/d1/intro-to-node.md">Intro to Node</a>
   </td>
   <td>
