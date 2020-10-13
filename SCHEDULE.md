@@ -3,6 +3,81 @@
 
 ## Unit 1
 
+
+### Week 4 (October 14 - 16)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Last Friday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br>
+    <a href="w04/d1/intro-to-node.md">Intro to Node</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-routers-controllers.md">Express Routers and Controllers</a></br></br>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w04/d3/mongodb-intro.md">Intro to MongoDB</a></br></br>
+    <a href="w04/d3/mongoose-intro">Intro to Mongoose</a>
+  </td>
+  <td>
+    <a href="w04/d4/mongoose-embedding">Mongoose Embedding</a>
+    <a href="w04/d4/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w04/d1/intro-to-express.md">Intro to Express</a></br>
+    <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-middleware.md">Express Middleware</a></br></br>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 2 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w04/d3/mongoose-flights-lab-part-1.md">Mongoose Flights Lab part 1 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w04/d4/mongoose-referencing">Mongoose Referencing</a>
+    <a href="w04/d4/mongoose-flights-lab-part-3.md">Mongoose Flights Lab part 3 (Deliverable)</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+    <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 & 2 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w04/d3/mongoose-flights-lab-part-1.md">Mongoose Flights Lab part 1 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w04/d4/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a><br><br>
+    <a href="w04/d4/mongoose-flights-lab-part-3.md">Mongoose Flights Lab part 3 (Deliverable)</a>
+  </td>
+</tr>
+
+</tbody>
+</table>
+
+
 ### Week 3 (October 5 - 9)
 
 <table>
