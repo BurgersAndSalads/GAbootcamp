@@ -60,6 +60,7 @@
   <td>
     <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a>
   </td>
+  <td>Look ahead</td>
   <td>
     <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 & 2 (Deliverable)</a>
   </td>
