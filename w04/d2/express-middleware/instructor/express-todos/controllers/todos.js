@@ -1,27 +1,17 @@
 var Todo = require('../models/todo');
 
-module.exports = {
-  index,
-  show,
-  new: newTodo,
-  create,
-  delete: deleteTodo,
-};
-
 function index(req, res) {
-  // console.log('respond with todo index');
   res.render('todos/index', {
-    time: req.time,
     todos: Todo.getAll(),
+    time: req.time
   });
 }
 
 function show(req, res) {
-  // console.log('respond with todo show');
   res.render('todos/show', {
     todo: Todo.getOne(req.params.id),
     // Would like to display the number of the todo within the list
-    todoNum: Todo.getAll().findIndex((todo) => todo.id === parseInt(req.params.id)) + 1,
+    todoNum: Todo.getAll().findIndex(todo => todo.id === parseInt(req.params.id)) + 1
   });
 }
 
@@ -30,11 +20,22 @@ function newTodo(req, res) {
 }
 
 function create(req, res) {
+  console.log(req.body)
+  // The model is responsible for creating data
   Todo.create(req.body);
+  // Do a redirect anytime data is changed
   res.redirect('/todos');
 }
 
 function deleteTodo(req, res) {
-  Todo.deleteOne(req.params.id);
-  res.redirect('/todos');
+  Todo.deleteOne(req.params.id)
+  res.redirect('/todos')
 }
+
+module.exports = {
+  index,
+  show,
+  new: newTodo,
+  create,
+  delete: deleteTodo
+};
