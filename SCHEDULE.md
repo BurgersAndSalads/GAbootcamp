@@ -26,15 +26,13 @@
   </td>
   <td>
     <a href="w04/d2/express-routers-controllers">Express Routers and Controllers</a></br></br>
-    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-middleware">Express Middleware</a></br></br>
   </td>
   <td>
     <a href="w04/d3/mongodb-intro.md">Intro to MongoDB</a></br></br>
     <a href="w04/d3/mongoose-intro">Intro to Mongoose</a>
-  </td>
-  <td>
-    <a href="w04/d4/mongoose-embedding">Mongoose Embedding</a>
-    <a href="w04/d4/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a>
   </td>
 </tr>
 
@@ -46,15 +44,14 @@
     <a href="w04/d1/fullstack-node-express-review-lab/nodejs-fullstack-review-lab.md">Additional Fullstack, Node, Express, Ejs Review Exercises</a><br><br>
   </td>
   <td>
-    <a href="w04/d2/express-middleware">Express Middleware</a></br></br>
-    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 2 (Deliverable)</a>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 2 (Deliverable)</a><br><br>
+    <strong>George at 4pm</strong>
   </td>
   <td>
     <a href="w04/d3/mongoose-flights-lab-part-1.md">Mongoose Flights Lab part 1 (Deliverable)</a>
-  </td>
-  <td>
-    <a href="w04/d4/mongoose-referencing">Mongoose Referencing</a>
-    <a href="w04/d4/mongoose-flights-lab-part-3.md">Mongoose Flights Lab part 3 (Deliverable)</a>
   </td>
 </tr>
 
@@ -64,14 +61,13 @@
     <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a>
   </td>
   <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable)</a>
+  </td>
+  <td>
     <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 & 2 (Deliverable)</a>
   </td>
   <td>
     <a href="w04/d3/mongoose-flights-lab-part-1.md">Mongoose Flights Lab part 1 (Deliverable)</a>
-  </td>
-  <td>
-    <a href="w04/d4/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a><br><br>
-    <a href="w04/d4/mongoose-flights-lab-part-3.md">Mongoose Flights Lab part 3 (Deliverable)</a>
   </td>
 </tr>
 
