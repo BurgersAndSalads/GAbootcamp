@@ -3,12 +3,12 @@ const Todo = require('../models/todo');
 module.exports = {
   index: index,
   show: show,
+  catPic,
 };
 
 function index(req, res) {
   res.render('todos/index', {
-    // title: 'Express Todos',
-    todos: Todo.getAll(),
+    todos: Todo.getAll()
   });
 }
 
@@ -22,4 +22,8 @@ function show(req, res) {
   res.render('todos/show', {
     todo: todo,
   });
+}
+
+function catPic(req, res) {
+  res.send('meow')
 }
