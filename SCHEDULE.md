@@ -43,11 +43,11 @@
     <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a><br><br>
     <a href="w04/d1/fullstack-node-express-review-lab/nodejs-fullstack-review-lab.md">Additional Fullstack, Node, Express, Ejs Review Exercises</a><br><br>
   </td>
-    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable)</a>
   <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable)</a>
   </td>
   <td>
-    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 2 (Deliverable)</a>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 2 (Deliverable)</a><br><br>
     <strong>George at 4pm</strong>
   </td>
   <td>
