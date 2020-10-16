@@ -6,9 +6,11 @@
   </head>
   <body>
     <h1>Todos</h1>
+    <h2><%= string %></h2>
+    <h2><%= model %></h2>
     <ul>
       <% todos.forEach(function(t) { %>
-      <li><a href="/todos/<%= t.id %>"><%= t.todo %></a> - <%= t.done ? 'done' : 'not done' %></li>
+        <li><a href="/todos/<%= t.id %>"><%= t.todo %></a> - <%= t.done ? 'done' : 'not done' %></li>
       <% }); %>
     </ul>
   </body>

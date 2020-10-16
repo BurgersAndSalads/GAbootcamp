@@ -1,7 +1,82 @@
 <h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;"></a> SEI Toronto - Cohort 7 - Schedule</h1>
 
 
+## Unit 2
+
+
+### Week 4 (October 14 - 16)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Last Friday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br><br>
+    <a href="w04/d1/intro-to-node.md">Intro to Node</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-routers-controllers">Express Routers and Controllers</a></br></br>
+  </td>
+  <td>
+    <a href="w04/d2/express-middleware">Express Middleware</a></br></br>
+  </td>
+  <td>
+    <a href="w04/d3/mongodb-intro.md">Intro to MongoDB</a></br></br>
+    <a href="w04/d3/mongoose-intro">Intro to Mongoose</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w04/d1/intro-to-express.md">Intro to Express</a></br><br>
+    <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a><br><br>
+    <a href="w04/d1/fullstack-node-express-review-lab/nodejs-fullstack-review-lab.md">Additional Fullstack, Node, Express, Ejs Review Exercises</a><br><br>
+  </td>
+  <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 2 (Deliverable)</a><br><br>
+    <strong>George at 4pm</strong>
+  </td>
+  <td>
+    <a href="w04/d3/mongoose-flights-lab-part-1.md">Mongoose Flights Lab part 1 (Deliverable)</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+    <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 & 2 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w04/d3/mongoose-flights-lab-part-1.md">Mongoose Flights Lab part 1 (Deliverable)</a>
+  </td>
+</tr>
+
+</tbody>
+</table>
+
+
 ## Unit 1
+
 
 ### Week 3 (October 5 - 9)
 
