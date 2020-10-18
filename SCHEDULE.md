@@ -29,7 +29,7 @@
   </td>
   <td>
     <a href="w05/d1/mongoose-referencing">Mongoose - Referencing</a><br><br>
-    <a href="w05/d1/mongoose-flights-lab-part-3.md">Lab: Mongoose Flights Pt. 3 (Deliverable)</a><br><br>
+    <a href="w05/d1/mongoose-flights-lab-part-3.md">Lab: Mongoose Flights Pt. 3 (Deliverable #2)</a><br><br>
     <a href="w05/d2/js-promises">JS Promises</a>
   </td>
   <td>
@@ -52,7 +52,7 @@
     <a href="w04/d4/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a>
   </td>
   <td>
-    <a href="w05/d2/js-promises-lab">JS Promises Lab (Deliverable)</a><br />
+    <a href="w05/d2/js-promises-lab">JS Promises Lab (Deliverable #3)</a><br />
   </td>
   <td>
     <a href="w05/d3/producing-api-lab">Producing an API Lab</a><br /><br />
@@ -76,7 +76,7 @@
     <a href="https://coursework.vschool.io/mongoose-crud/">Read: CRUD your DB with Mongoose's convenience methods</a>
   </td>
   <td>
-    <a href="w05/d2/js-promises-lab">JS Promises Lab (Deliverable)</a><br /><br />
+    <a href="w05/d2/js-promises-lab">JS Promises Lab (Deliverable #3)</a><br /><br />
     <a href="https://git.generalassemb.ly/sei-toronto/sei-extra-review-notes/blob/master/module-02/mongoose-models.md">CRUD operations with Mongoose  + Promises</a><br><br>
     <a href="projects/project-2">Project 2 Planning</a>
   </td>
@@ -142,10 +142,10 @@
     <a href="w04/d1/fullstack-node-express-review-lab/nodejs-fullstack-review-lab.md">Additional Fullstack, Node, Express, Ejs Review Exercises</a><br><br>
   </td>
   <td>
-    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable)</a>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable #1)</a>
   </td>
   <td>
-    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 2 (Deliverable)</a><br><br>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 2 (Deliverable #1)</a><br><br>
     <strong>George at 4pm</strong>
   </td>
   <td>
