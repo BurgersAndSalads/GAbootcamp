@@ -63,8 +63,7 @@
   </td>
   <td>
     <strong>Proposals: Project 2</strong><br><br>
-    <a href="w05/d5/03-04-realtime-with-socket-io">Realtime with Socket.io (optional topic)</a><br /><br />
-    <a href="w05/d5/hw-realtime-chat-lab">Realtime Chat Lab (optional)</a>
+    <a href="w05/d5/03-04-realtime-with-socket-io">Socket.io (optional topic)</a> + <a href="w05/d5/hw-realtime-chat-lab">Realtime Chat Lab (optional)</a>
   </td>
 </tr>
 
