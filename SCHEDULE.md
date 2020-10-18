@@ -35,7 +35,7 @@
   <td>
     <a href="w05/d2/consuming-3rd-party-apis">Consuming 3rd Party APIs</a></br></br>
     <a href="w05/d2/consuming-apis-lab">Consuming APIs Lab (Chuck Norris)</a><br><br>
-    <a href="w05/d3/producing-an-api-in-express">Producing an API in Express</a></br></br>
+    <a href="w05/d3/producing-an-api-in-express">Producing an API in Express</a>
   </td>
   <td>
     <a href="w05/d3/oauth-authentication">Oauth Authentication</a>
@@ -63,8 +63,7 @@
   </td>
   <td>
     <strong>Proposals: Project 2</strong><br><br>
-    <a href="w05/d5/03-04-realtime-with-socket-io">Realtime with Socket.io (optional topic)</a><br /><br />
-    <a href="w05/d5/hw-realtime-chat-lab">Realtime Chat Lab (optional)</a>
+    <a href="w05/d5/03-04-realtime-with-socket-io">Socket.io (optional topic)</a> + <a href="w05/d5/hw-realtime-chat-lab">Realtime Chat Lab (optional)</a>
   </td>
 </tr>
 
@@ -73,7 +72,7 @@
   <td>
     <a href="w04/d4/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a><br><br>
     Start Planning <a href="project-2/project-2-requirements.md">Project 2</a><br><br>
-    <a href="https://coursework.vschool.io/mongoose-crud/">Read: CRUD your DB with Mongoose's convenience methods</a>
+    <a href="https://coursework.vschool.io/mongoose-crud/">Read: Doing CRUD on your DB with Mongoose</a>
   </td>
   <td>
     <a href="w05/d2/js-promises-lab">JS Promises Lab (Deliverable #3)</a><br /><br />
