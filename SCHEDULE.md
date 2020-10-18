@@ -28,28 +28,28 @@
     <a href="w05/d1/mongoose-embedding">Mongoose Embedding</a><br /><br />
   </td>
   <td>
-    <a href="w05/d1/mongoose-referencing">Mongoose - Referencing</a><br><br>
-    <a href="w05/d1/mongoose-flights-lab-part-3.md">Lab: Mongoose Flights Pt. 3 (Deliverable #2)</a><br><br>
+    <a href="w05/d2/mongoose-referencing">Mongoose - Referencing</a><br><br>
+    <a href="w05/d2/mongoose-flights-lab-part-3.md">Lab: Mongoose Flights Pt. 3 (Deliverable #2)</a><br><br>
     <a href="w05/d2/js-promises">JS Promises</a>
   </td>
   <td>
-    <a href="w05/d2/consuming-3rd-party-apis">Consuming 3rd Party APIs</a></br></br>
-    <a href="w05/d2/consuming-apis-lab">Consuming APIs Lab (Chuck Norris)</a><br><br>
+    <a href="w05/d3/consuming-3rd-party-apis">Consuming 3rd Party APIs</a></br></br>
+    <a href="w05/d3/consuming-apis-lab">Consuming APIs Lab (Chuck Norris)</a><br><br>
     <a href="w05/d3/producing-an-api-in-express">Producing an API in Express</a>
   </td>
   <td>
-    <a href="w05/d3/oauth-authentication">Oauth Authentication</a>
+    <a href="w05/d4/oauth-authentication">Oauth Authentication</a>
   </td>
   <td>
-    <a href="w05/d4/ajax-using-fetch-puppies">AJAX  Fetch + async/await</a></br></br>
-    <a href="w05/d4/ajax-using-fetch-lab.md">AJAX Fetch Lab (OMDb)</a>
+    <a href="w05/d5/ajax-using-fetch-puppies">AJAX  Fetch + async/await</a></br></br>
+    <a href="w05/d5/ajax-using-fetch-lab.md">AJAX Fetch Lab (OMDb)</a>
   </td>
 </tr>
 
 <tr>
   <td><strong>Afternoon</strong></td>
   <td>
-    <a href="w04/d4/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a>
+    <a href="w05/d1/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a>
   </td>
   <td>
     <a href="w05/d2/js-promises-lab">JS Promises Lab (Deliverable #3)</a><br />
@@ -70,14 +70,14 @@
 <tr>
   <td><strong>Homework</strong></td>
   <td>
-    <a href="w04/d4/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a><br><br>
+    <a href="w05/d1/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a><br><br>
     Start Planning <a href="project-2/project-2-requirements.md">Project 2</a><br><br>
     <a href="https://coursework.vschool.io/mongoose-crud/">Read: Doing CRUD on your DB with Mongoose</a>
   </td>
   <td>
+    <a href="w05/d2/mongoose-flights-lab-part-3.md">Mongoose Flights Lab Pt. 3 (Deliverable #2)</a><br><br>
     <a href="w05/d2/js-promises-lab">JS Promises Lab (Deliverable #3)</a><br /><br />
-    <a href="https://git.generalassemb.ly/sei-toronto/sei-extra-review-notes/blob/master/module-02/mongoose-models.md">CRUD operations with Mongoose  + Promises</a><br><br>
-    <a href="projects/project-2">Project 2 Planning</a>
+    <a href="https://git.generalassemb.ly/sei-toronto/sei-extra-review-notes/blob/master/module-02/mongoose-models.md">CRUD operations with Mongoose  + Promises</a>
   </td>
   <td>
     Finish labs<br><br>
