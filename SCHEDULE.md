@@ -35,7 +35,7 @@
   <td>
     <a href="w05/d2/consuming-3rd-party-apis">Consuming 3rd Party APIs</a></br></br>
     <a href="w05/d2/consuming-apis-lab">Consuming APIs Lab (Chuck Norris)</a><br><br>
-    <a href="w05/d3/producing-an-api-in-express">Producing an API in Express</a></br></br>
+    <a href="w05/d3/producing-an-api-in-express">Producing an API in Express</a>
   </td>
   <td>
     <a href="w05/d3/oauth-authentication">Oauth Authentication</a>
