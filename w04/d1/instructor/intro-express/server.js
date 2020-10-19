@@ -28,6 +28,11 @@ app.get('/home', function (req, res) {
   res.render('home');
 })
 
+app.get('/products/dynamic', function(req,res) {
+  
+  res.render('dynamicproducts.ejs')
+})
+
 app.get('/todos', function(req, res) {
   res.render('todos/index', {
     todos: todoDb.getAll(),

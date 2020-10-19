@@ -1,7 +1,180 @@
 <h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;"></a> SEI Toronto - Cohort 7 - Schedule</h1>
 
+<i>Lab due dates: Deliverables are always due 1 week after they are assigned, at midnight. (Ie., A deliverable assigned Monday January 1st will be due Monday January 8th at midnight). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
+
+<br>
+
+## Unit 2
+
+### Week 5 (October 19 - 23)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w05/d1/mongoose-embedding">Mongoose Embedding</a><br /><br />
+  </td>
+  <td>
+    <a href="w05/d2/mongoose-referencing">Mongoose - Referencing</a><br><br>
+    <a href="w05/d2/mongoose-flights-lab-part-3.md">Lab: Mongoose Flights Pt. 3 (Deliverable #2)</a><br><br>
+    <a href="w05/d2/js-promises">JS Promises</a>
+  </td>
+  <td>
+    <a href="w05/d3/consuming-3rd-party-apis">Consuming 3rd Party APIs</a></br></br>
+    <a href="w05/d3/consuming-apis-lab">Consuming APIs Lab (Chuck Norris)</a><br><br>
+    <a href="w05/d3/producing-an-api-in-express">Producing an API in Express</a>
+  </td>
+  <td>
+    <a href="w05/d4/oauth-authentication">Oauth Authentication</a>
+  </td>
+  <td>
+    <a href="w05/d5/ajax-using-fetch-puppies">AJAX  Fetch + async/await</a></br></br>
+    <a href="w05/d5/ajax-using-fetch-lab.md">AJAX Fetch Lab (OMDb)</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w05/d1/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w05/d2/js-promises-lab">JS Promises Lab (Deliverable #3)</a><br />
+  </td>
+  <td>
+    <a href="w05/d3/producing-api-lab">Producing an API Lab</a><br /><br />
+  </td>
+  <td>
+    <br /><br />
+    <strong>George at 4pm</strong>
+  </td>
+  <td>
+    <strong>Proposals: Project 2</strong><br><br>
+    <a href="w05/d5/03-04-realtime-with-socket-io">Socket.io (optional topic)</a> + <a href="w05/d5/hw-realtime-chat-lab">Realtime Chat Lab (optional)</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+    <a href="w05/d1/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 (Deliverable)</a><br><br>
+    Start Planning <a href="project-2/project-2-requirements.md">Project 2</a><br><br>
+    <a href="https://coursework.vschool.io/mongoose-crud/">Read: Doing CRUD on your DB with Mongoose</a>
+  </td>
+  <td>
+    <a href="w05/d2/mongoose-flights-lab-part-3.md">Mongoose Flights Lab Pt. 3 (Deliverable #2)</a><br><br>
+    <a href="w05/d2/js-promises-lab">JS Promises Lab (Deliverable #3)</a><br /><br />
+    <a href="https://git.generalassemb.ly/sei-toronto/sei-extra-review-notes/blob/master/module-02/mongoose-models.md">CRUD operations with Mongoose  + Promises</a>
+  </td>
+  <td>
+    Finish labs<br><br>
+    <a href="projects/project-2">Project 2 Planning</a>
+  </td>
+  <td>
+    Finish labs<br /><br />
+    <a href="projects/project-2">Project 2 Planning</a>
+  </td>
+  <td>
+    <a href="projects/project-2">Start Project 2</a></br></br>
+    <a href="w05/d5/guide-to-add-feature-to-web-app.md">Review: Guide to Add Features to Web Apps</a>
+    </br></br>
+    <a href="w05/d5/guide-to-user-centric-crud.md">Read: Guide to User-Centric CRUD</a><br /><br />
+    <a href="https://git.generalassemb.ly/sei-toronto/sei-33-5-review-notes">Review: SEI Textbook</a> (Module 2)
+  </td>
+</tr>
+
+</tbody>
+</table>
+
+<br /><br />
+
+### Week 4 (October 14 - 16)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Last Friday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w04/d1/intro-fullstack-http.md">Intro to Fullstack</a></br><br>
+    <a href="w04/d1/intro-to-node.md">Intro to Node</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-routers-controllers">Express Routers and Controllers</a></br></br>
+  </td>
+  <td>
+    <a href="w04/d2/express-middleware">Express Middleware + Forms</a></br></br>
+  </td>
+  <td>
+    <a href="w04/d3/mongodb-intro.md">Intro to MongoDB</a></br></br>
+    <a href="w04/d3/mongoose-intro">Intro to Mongoose</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w04/d1/intro-to-express.md">Intro to Express</a></br><br>
+    <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a><br><br>
+    <a href="w04/d1/fullstack-node-express-review-lab/nodejs-fullstack-review-lab.md">Additional Fullstack, Node, Express, Ejs Review Exercises</a><br><br>
+  </td>
+  <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable #1)</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 2 (Deliverable #1)</a><br><br>
+    <strong>George at 4pm</strong>
+  </td>
+  <td>
+    <a href="w04/d3/mongoose-flights-lab-part-1.md">Mongoose Flights Lab part 1 (Deliverable)</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+    <a href="w04/d1/express-intro-lab.md">Express Intro Lab</a>
+  </td>
+  <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 (Deliverable)</a><br><br>
+    <a href="w05/d5/guide-to-add-feature-to-web-app.md">Review: Guide to Add Features to Web App</a></br></br>
+  </td>
+  <td>
+    <a href="w04/d2/express-dev-skills-lab">Dev Skills Lab part 1 & 2 (Deliverable)</a>
+  </td>
+  <td>
+    <a href="w04/d3/mongoose-flights-lab-part-1.md">Mongoose Flights Lab part 1 (Deliverable)</a>
+  </td>
+</tr>
+
+</tbody>
+</table>
+
 
 ## Unit 1
+
 
 ### Week 3 (October 5 - 9)
 
