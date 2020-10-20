@@ -81,11 +81,11 @@
   </td>
   <td>
     Finish labs<br><br>
-    <a href="project-2/project-2-requirements.md">Project 2</a>
+    <a href="project-2/project-2-requirements.md">Project 2</a> Planning 
   </td>
   <td>
     Finish labs<br /><br />
-   <a href="project-2/project-2-requirements.md">Project 2</a>
+   <a href="project-2/project-2-requirements.md">Project 2</a> Planning
   </td>
   <td>
     <a href="project-2/project-2-requirements.md">Project 2</a></br></br>
