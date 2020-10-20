@@ -81,14 +81,14 @@
   </td>
   <td>
     Finish labs<br><br>
-    <a href="projects/project-2">Project 2 Planning</a>
+    <a href="project-2/project-2-requirements.md">Project 2</a>
   </td>
   <td>
     Finish labs<br /><br />
-    <a href="projects/project-2">Project 2 Planning</a>
+   <a href="project-2/project-2-requirements.md">Project 2</a>
   </td>
   <td>
-    <a href="projects/project-2">Start Project 2</a></br></br>
+    <a href="project-2/project-2-requirements.md">Project 2</a></br></br>
     <a href="w05/d5/guide-to-add-feature-to-web-app.md">Review: Guide to Add Features to Web Apps</a>
     </br></br>
     <a href="w05/d5/guide-to-user-centric-crud.md">Read: Guide to User-Centric CRUD</a><br /><br />
