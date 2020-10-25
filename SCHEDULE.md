@@ -6,6 +6,63 @@
 
 ## Unit 2
 
+### Week 6 (October 26 - 30)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w06/atlas-hosted-mongodb.md">MongoDB Atlas</a></br></br>
+    Work on Project 2
+  </td>
+  <td>
+    <a href="w06/deploy-express-heroku.md">Deploy Express App to Heroku</a></br></br>
+    Work on Project 2
+  </td>
+  <td>
+    <a href="computer-science/02-cs-recursion">Recursion Problems</a></br></br>
+    Work on Project 2
+  </td>
+  <td> Work on Project 2 </td>
+  <td> Project 2 Presentations </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td> Work on Project 2 </td>
+  <td> Work on Project 2 </td>
+  <td> Work on Project 2 </td>
+  <td> Work on Project 2 </td>
+  <td> Project 2 Assessment </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> Project 2 </td>
+  <td>
+    <a href="https://my.generalassemb.ly/activities/773">MyGA - Recursion (attempt exercises)</a><br><br>
+    Project 2
+  </td>
+  <td> Project 2 </td>
+  <td> Project 2 </td>
+  <td> Review Unit 2 & Finish Labs / Project 2</td>
+</tr>
+
+</tbody>
+</table>
+
 ### Week 5 (October 19 - 23)
 
 <table>
