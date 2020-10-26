@@ -7,6 +7,7 @@ const todos = [
 module.exports = {
   getAll: getAll,
   getOne: getOne,
+  getString
 };
 
 function getAll() {
@@ -15,4 +16,8 @@ function getAll() {
 
 function getOne(id) {
   return todos.find((todo) => todo.id === parseInt(id));
+}
+
+function getString() {
+  return "hello I'm coming from models"
 }
