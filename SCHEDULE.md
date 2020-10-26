@@ -36,7 +36,7 @@
     Work on Project 2
   </td>
   <td> Work on Project 2 </td>
-  <td> Project 2 Presentations </td>
+  <td> <a href="project-2/project-2-requirements.md">Project 2</a> Presentations </td>
 </tr>
 
 <tr>
