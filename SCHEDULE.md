@@ -57,7 +57,7 @@
   </td>
   <td> Project 2 </td>
   <td> Project 2 </td>
-  <td> Review Unit 2 & Finish Labs / Project 2</td>
+  <td> Review Unit 2 & Prep for Unit 3</td>
 </tr>
 
 </tbody>
