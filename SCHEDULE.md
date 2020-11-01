@@ -9,14 +9,6 @@
 ### Week 7 (November 2 - 6)
 
 <table>
-<colgroup>
-  <col style="width:16%" />
-  <col style="width:16%" />
-  <col style="width:16%" />
-  <col style="width:16%" />
-  <col style="width:16%" />
-  <col style="width:16%" />
-</colgroup>
 <thead>
 <tr>
   <td></td>
