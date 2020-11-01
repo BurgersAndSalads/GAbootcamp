@@ -33,7 +33,8 @@
   </td>
   <td>
     <a href="w07/d3/python-functions.md">Python Functions</a></br></br>
-    <a href="w07/d3/python-functions-lab.md">Lab: Python Functions (Deliverable #4)</a><br><strong>Due:Next Wednesday</strong>
+    <a href="w07/d3/sql-joins">SQL Joins</a></br></br>
+    <a href="w07/d2/relational-data-modeling.md">Relational Data Modeling</a></br></br>
   </td>
   <td>
     <a href="w07/d5/django-intro">Intro to Django</a><br><br>
@@ -47,16 +48,14 @@
 <tr>
   <td><strong>Afternoon</strong></td>
   <td>
-    <a href="w07/d1/control-flow-lab">Lab: Control Flow (Deliverable #1)</a></br><strong>Due: Next Monday</strong> <br /><em>(ideal: tonight)</em></br><br />
-    <a href="computer-science/03-cs-intro-to-sorting">CS: Intro to Sorting</a></br></br>
+    <a href="w07/d1/control-flow-lab">Lab: Control Flow (Deliverable #1)</a></br><strong>Due: Next Monday</strong> <br /><em>(ideal: tonight)</em>
   </td>
   <td>
     <a href="w07/d2/python-containers/containers-lab.md">Lab: Python Containers (Deliverable #2)</a><br> <strong>Due:Next Tuesday</strong><br /><br />
     <a href="w07/d2/sql-lab">Lab: Carmen Sandiego SQL (Deliverable #3)</a><br><strong>Due:Next Tuesday</strong><br><br>
   </td>
   <td>
-    <a href="w07/d3/sql-joins">SQL Joins</a></br></br>
-    <a href="w07/d2/relational-data-modeling.md">Relational Data Modeling</a></br></br>
+    <a href="w07/d3/python-functions-lab.md">Lab: Python Functions (Deliverable #4)</a><br><strong>Due:Next Wednesday</strong><br><br>
     <a href="w07/d2/data-modeling-lab.md">Lab: Relational Data Modeling</a><br><br>
   <td>
     Let's Build a Django App<br><br>
@@ -82,6 +81,7 @@
   </td>
   <td>
     Finish the Django Tutorials
+    Review <a href="w07/d5/django-intro/key-takeaways.md">Django Key Takeaways</a><br><br>
   </td>
   <td>
     Finish the Django Tutorials<br><br>
