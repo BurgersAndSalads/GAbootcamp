@@ -4,6 +4,94 @@
 
 <br>
 
+## Unit 3
+
+### Week 7 (August 24 - 28)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w07/d1/python-intro">Intro to Python</a></br></br>
+    <a href="w07/d1/python-control-flow">Control Flow in Python</a>
+  </td>
+  <td>
+    <a href="w07/d2/python-containers">Python Containers</a></br></br>
+    <a href="w07/d2/sql-intro.md">SQL Intro</a></br></br>
+  </td>
+  <td>
+    <a href="w07/d3/python-functions.md">Python Functions</a></br></br>
+    <a href="w07/d3/python-functions-lab.md">Lab: Python Functions (Deliverable #4)</a><br><strong>Due:Next Wednesday</strong>
+  </td>
+  <td>
+    <a href="w07/d5/django-intro">Intro to Django</a><br><br>
+    Let's Build a Django App
+  </td>
+  <td>
+  <strong>DSI (Data Science Immersive) Final Presentations</strong>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w07/d1/control-flow-lab">Lab: Control Flow (Deliverable #1)</a></br><strong>Due: Next Monday</strong> <br /><em>(ideal: tonight)</em></br><br />
+    <a href="computer-science/03-cs-intro-to-sorting">CS: Intro to Sorting</a></br></br>
+  </td>
+  <td>
+    <a href="w07/d2/python-containers/containers-lab.md">Lab: Python Containers (Deliverable #2)</a><br> <strong>Due:Next Tuesday</strong><br /><br />
+    <a href="w07/d2/sql-lab">Lab: Carmen Sandiego SQL (Deliverable #3)</a><br><strong>Due:Next Tuesday</strong><br><br>
+  </td>
+  <td>
+    <a href="w07/d3/sql-joins">SQL Joins</a></br></br>
+    <a href="w07/d2/relational-data-modeling.md">Relational Data Modeling</a></br></br>
+    <a href="w07/d2/data-modeling-lab.md">Lab: Relational Data Modeling</a><br><br>
+  <td>
+    Let's Build a Django App<br><br>
+    <strong>George at 4pm.</strong>
+  </td>
+  <td>
+    <a href="w07/d5/django-urls-views-templates">Django Urls, Views and Templates</a><br><br>
+    Lab: FinchCollector Pt 1 (Urls,Views,Templates) <strong>(Pt. 6 is deliverable)</strong><br><br>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+    <a href="w07/d1/control-flow-lab">Lab: Control Flow (Deliverable #1)</a></br><strong>Due: Next Monday</strong> <br /><em>(ideal: tonight)</em></br>
+  </td>
+  <td>
+  <a href="w07/d2/python-containers/containers-lab.md">Lab: Python Containers (Deliverable #2)</a><br><strong>Due:Next Tuesday</strong><br><br>
+    <a href="w07/d2/sql-lab">Lab: Carmen Sandiego SQL (Deliverable #3)</a><br><strong>Due:Next Tuesday</strong>
+  </td>
+  <td>
+    <a href="w07/d3/python-functions-lab.md">Lab: Python Functions (Deliverable #4)</a><br><strong>Due:Next Wednesday</strong>
+  </td>
+  <td>
+    Finish the Django Tutorials
+  </td>
+  <td>
+    Finish the Django Tutorials<br><br>
+    Lab: FinchCollector Pt 1 (Urls,Views,Templates) <strong>(Pt. 6 is deliverable)</strong><br><br>
+  </td>
+</tr>
+</tbody>
+</table>
+
+
 ## Unit 2
 
 ### Week 6 (October 26 - 30)
