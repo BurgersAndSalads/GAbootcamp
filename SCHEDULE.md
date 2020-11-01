@@ -6,7 +6,7 @@
 
 ## Unit 3
 
-### Week 7 (August 24 - 28)
+### Week 7 (November 2 - 6)
 
 <table>
 <thead>
