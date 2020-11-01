@@ -33,11 +33,11 @@
   </td>
   <td>
     <a href="w07/d3/python-functions.md">Python Functions</a></br></br>
-    <a href="w07/d3/sql-joins">SQL Joins</a></br></br>
     <a href="w07/d2/relational-data-modeling.md">Relational Data Modeling</a></br></br>
   </td>
   <td>
     <a href="w07/d5/django-intro">Intro to Django</a><br><br>
+    <a href="w07/d3/sql-joins">SQL Joins</a></br></br>
     Let's Build a Django App
   </td>
   <td>
