@@ -41,7 +41,7 @@
     Let's Build a Django App
   </td>
   <td>
-  <strong>DSI (Data Science Immersive) Final Presentations</strong>
+  <a href="w07/d5/django-urls-views-templates">Django Urls, Views and Templates</a>
   </td>
 </tr>
 
@@ -59,10 +59,9 @@
     <a href="w07/d2/data-modeling-lab.md">Lab: Relational Data Modeling</a><br><br>
   <td>
     Let's Build a Django App<br><br>
-    <strong>George at 4pm.</strong>
+    <strong>Zoe at 4pm.</strong>
   </td>
   <td>
-    <a href="w07/d5/django-urls-views-templates">Django Urls, Views and Templates</a><br><br>
     Lab: FinchCollector Pt 1 (Urls,Views,Templates) <strong>(Pt. 6 is deliverable)</strong><br><br>
   </td>
 </tr>
@@ -80,11 +79,11 @@
     <a href="w07/d3/python-functions-lab.md">Lab: Python Functions (Deliverable #4)</a><br><strong>Due:Next Wednesday</strong>
   </td>
   <td>
-    Finish the Django Tutorials
-    Review <a href="w07/d5/django-intro/key-takeaways.md">Django Key Takeaways</a><br><br>
+    Finish the Django Tutorials<br><br>
   </td>
   <td>
     Finish the Django Tutorials<br><br>
+    Review <a href="w07/d5/django-intro/key-takeaways.md">Django Key Takeaways</a><br><br>
     Lab: FinchCollector Pt 1 (Urls,Views,Templates) <strong>(Pt. 6 is deliverable)</strong><br><br>
   </td>
 </tr>
