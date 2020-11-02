@@ -3,9 +3,12 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+const methodOverride = require('method-override');
 
 var indexRouter = require('./routes/index');
 var todosRouter = require('./routes/todos');
+const productsR = require('./routes/products');
+const contactsR = require('./routes/contacts');
 
 var app = express();
 
@@ -13,14 +16,28 @@ var app = express();
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
+// middleware lesson----------------------------------------------
+app.use(function(req,res,next) {
+  console.log("middleware");
+  req.time = new Date().toLocaleTimeString();
+  next();
+})
+
+// -----------------------------------------------
+
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+
+app.use(methodOverride('_method'));
+
 app.use('/', indexRouter);
 app.use('/todos', todosRouter);
+app.use('/contactus', contactsR);
+app.use('/products', productsR);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

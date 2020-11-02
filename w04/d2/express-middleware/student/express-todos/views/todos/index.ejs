@@ -10,14 +10,20 @@
 <body>
   <a href="/">Home</a>
   <h1>Todos</h1>
+  <h2><%= time %></h2>
   <ul>
     <% todos.forEach(function(t) { %>
       <li>
+        <form action="/todos/<%= t.id %>?_method=DELETE"
+          class="delete-form" method="POST">
+          <button type="submit">X</button>
+        </form>
         <a href="/todos/<%= t.id %>"><%= t.todo %></a>
           - 
         <%= t.done ? 'done' : 'not done' %>
       </li>
     <% }); %>
   </ul>
+  <a href="/todos/new">Add a To-Do</a>
 </body>
 </html>

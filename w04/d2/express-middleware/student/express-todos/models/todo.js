@@ -8,7 +8,10 @@ const todos = [
 
 module.exports = {
   getAll,
-  getOne
+  getOne,
+  create,
+  deleteOne,
+  edit
 };
 
 function getOne(id) {
@@ -18,4 +21,23 @@ function getOne(id) {
 
 function getAll() {
   return todos;
+}
+
+
+//             (re.body)
+function create(todo) {
+  // git it an id
+  todo.id = Date.now() % 1000000;
+  todo.done = false;
+  todos.push(todo);
+}
+
+function deleteOne(id) {
+  const idx = todos.findIndex(todo => todo.id === parseInt(id));
+  todos.splice(idx, 1);  
+}
+
+function edit(id) {
+  return todos.find(todo => todo.id === parseInt(id));
+  
 }
