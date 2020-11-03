@@ -27,7 +27,7 @@ We're going to use what we've learned already about querying a database using SQ
 	\c carmen
 	```
 
-6. Create `city`, `country` & `countrylanguage` tables and seed their data using the _import_ (`\i`) psql command:
+6. Use the _import_ (`\i`) psql command (this will create `city`, `country` & `countrylanguage` tables and seed their data from the world.sql file):
 
 	```sql
 	\i world.sql
