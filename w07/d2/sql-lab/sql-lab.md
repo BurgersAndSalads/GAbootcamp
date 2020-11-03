@@ -47,11 +47,13 @@ Run the queries in psql by typing `\i clues.sql`.
 
 - Google and collaborate to reach the goal of finding out where Carmen's destination is.
 
-- For example, you'll certainly need to know about the [ORDER BY](http://www.postgresqltutorial.com/postgresql-order-by/) clause.
+- For example, you'll certainly need to know about the [ORDER BY](http://www.postgresqltutorial.com/postgresql-order-by/) clause in order to complete the first question. Use this link as a starting point for learning SQL syntax.
 
-## Additional Resources
+## Additional Tips and Resources
 
-- [PostgreSQL official documentation](http://www.postgresql.org/docs/)
+- [PostgreSQL official documentation](https://www.postgresql.org/docs/12/index.html)
+- [Basic PostgreSQL Tutorial through Exercises](https://pgexercises.com/questions/basic/)
+- [SQL Zoo: Learn SQL in Stages](https://sqlzoo.net/)
 
 ## Encore 
 
