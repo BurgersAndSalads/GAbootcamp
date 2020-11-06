@@ -75,7 +75,6 @@
   <td><strong>Homework</strong></td>
   <td>
     FinchCollector Lab Pt. 2 (Models) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
-    <a href="projects/project-3/project-3-requirements.md">Project 3</a>- submit teammate preferences<br><br> 
   </td>
   <td>
     Lab: FinchCollector Pt. 3 (Class Views) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
