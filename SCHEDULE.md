@@ -41,7 +41,7 @@
     <a href="w08/d5/stretch-practice/build-another-django-app/build-another-app.md">Stretch Lab: Build Another App</a>
   </td>
   <td>
-    Work on <a href="projects/project-3/project-3-requirements.md">Project 3</a>
+    Work on <a href="project-3/project-3-requirements.md">Project 3</a>
   </td>
 </tr>
 
@@ -61,7 +61,7 @@
   </td>
   <td>
     <a href="w08/d5/stretch-practice/build-another-django-app/build-another-app.md">Stretch Lab: Build Another App</a><br><br>
-    <a href="projects/project-3/project-3-requirements.md">Project 3</a><strong>- Group Pitch Presentations</strong><br><br> 
+    <a href="project-3/project-3-requirements.md">Project 3</a><strong>- Group Pitch Presentations</strong><br><br> 
   </td>
   <td>
     Possible Optional topics: <br>
@@ -79,16 +79,16 @@
   <td>
     Lab: FinchCollector Pt. 3 (Class Views) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
     Lab: FinchCollector Pt. 4 (One to Many models) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
-    <a href="projects/project-3/project-3-requirements.md">Project 3</a>- brainstorm ideas<br><br> 
+    <a href="project-3/project-3-requirements.md">Project 3</a>- brainstorm ideas<br><br> 
   </td>
   <td>
     Lab: FinchCollector Pt. 5 (Many to Many models) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
-    <a href="projects/project-3/project-3-requirements.md">Project 3</a>- brainstorm ideas<br><br> 
+    <a href="project-3/project-3-requirements.md">Project 3</a>- brainstorm ideas<br><br> 
   </td>
   <td>
     FinchCollector Lab Pt. 6 (Django Auth) <strong>(Deliverable #5)<br>Due: Next Friday</strong><br><br>
     <a href="w08/d5/stretch-practice/build-another-django-app/build-another-app.md">Stretch Lab: Build Another App</a><br><br>
-    <a href="projects/project-3/project-3-requirements.md">Project 3</a>- Work on Group Proj
+    <a href="project-3/project-3-requirements.md">Project 3</a>- Work on Group Proj
   </td>
   <td>
     Project 3<br><br>
