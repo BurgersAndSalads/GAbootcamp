@@ -60,8 +60,8 @@
     Lab: FinchCollector Pt. 5 (Many to Many models) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
   </td>
   <td>
-    <a href="w08/d5/stretch-practice/build-another-django-app/build-another-app.md">Stretch Lab: Build Another App</a><br><br>
-    <a href="project-3/project-3-requirements.md">Project 3</a><strong>- Group Pitch Presentations</strong><br><br> 
+    <a href="project-3/project-3-requirements.md">Project 3</a><strong>- Group Pitch Presentations</strong><br><br>
+    <strong>Zoe at 4pm</strong>
   </td>
   <td>
     Possible Optional topics: <br>
