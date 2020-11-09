@@ -67,7 +67,7 @@
     Possible Optional topics: <br>
     (1) <a href="w07/d3/python-decorators.md">Python Decorators</a>, <br>
     (2) Deploying to a Virtual Private Server (put your site on an IP address or domain!)<br>
-    (3) <a href="https://channels.readthedocs.io/en/latest/tutorial/part_1.html">Django Channels (socketio for django)</a>(time permitting)<br>
+    (3) Python virtual environments<br>
   </td>
 </tr>
 
