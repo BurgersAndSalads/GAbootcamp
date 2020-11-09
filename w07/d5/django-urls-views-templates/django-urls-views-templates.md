@@ -705,7 +705,7 @@ We're going to get our first look at Models in the next lesson where we'll use o
 
 ## Lab
 
-The lab for this lesson is repeating everything we just did, except you'll collect something else like Finches and call the project something like finchcollector, or whatever.
+The lab for this lesson is repeating everything we just did, except you'll collect something else like Finches and call the project something like finchcollector, or whatever theme you may like!
 
 The final version of your "Finch Collector" project will be a deliverable.
 

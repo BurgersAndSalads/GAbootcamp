@@ -6,6 +6,99 @@
 
 ## Unit 3
 
+### Week 8 (November 9 - November 13)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w07/d4/python-classes.md">Python Classes</a><br><br>
+    <a href="w08/d1/intro-to-django-models">Intro to Django Models</a>
+  </td>
+  <td>
+    <a href="w08/d2/django-class-views">Django Class Views</a><br><br>
+    <a href="w08/d2/django-one-to-many-models">Django One to Many Models</a>
+  </td>
+  <td>
+    <a href="w08/d3/django-many-to-many-models">Django Many to Many Models</a><br><br>
+    <a href="w08/d4/uploading-images-django">Uploading Images to Amzn S3 (optional)</a>
+  </td>
+  <td>
+    <a href="w08/d5/django-authentication">Django Authentication</a><br><br>
+    FinchCollector Lab Pt. 6 (Django Auth) <strong>(Deliverable #5)<br>Due: Next Friday</strong><br><br>
+    <a href="w08/d5/stretch-practice/build-another-django-app/build-another-app.md">Stretch Lab: Build Another App</a>
+  </td>
+  <td>
+    Work on <a href="project-3/project-3-requirements.md">Project 3</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w07/d4/py-pac-poe-lab">Lab: Py Pac Poe</a><br><br>
+    FinchCollector Lab Pt. 2 (Models) <br><strong>(Pt. 6 is deliverable)</strong>
+  </td>
+  <td>
+    Lab: FinchCollector Pt. 3 (Class Views) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
+    Lab: FinchCollector Pt. 4 (One to Many models) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
+  </td>
+  <td>
+    Project 3- prepare and plan.<br><br>
+    Lab: FinchCollector Pt. 5 (Many to Many models) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
+  </td>
+  <td>
+    <a href="project-3/project-3-requirements.md">Project 3</a><strong>- Group Pitch Presentations</strong><br><br>
+    <strong>Zoe at 4pm</strong>
+  </td>
+  <td>
+    Possible Optional topics: <br>
+    (1) <a href="w07/d3/python-decorators.md">Python Decorators</a>, <br>
+    (2) Deploying to a Virtual Private Server (put your site on an IP address or domain!)<br>
+    (3) <a href="https://channels.readthedocs.io/en/latest/tutorial/part_1.html">Django Channels (socketio for django)</a>(time permitting)<br>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+    FinchCollector Lab Pt. 2 (Models) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
+  </td>
+  <td>
+    Lab: FinchCollector Pt. 3 (Class Views) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
+    Lab: FinchCollector Pt. 4 (One to Many models) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
+    <a href="project-3/project-3-requirements.md">Project 3</a>- brainstorm ideas<br><br> 
+  </td>
+  <td>
+    Lab: FinchCollector Pt. 5 (Many to Many models) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
+    <a href="project-3/project-3-requirements.md">Project 3</a>- brainstorm ideas<br><br> 
+  </td>
+  <td>
+    FinchCollector Lab Pt. 6 (Django Auth) <strong>(Deliverable #5)<br>Due: Next Friday</strong><br><br>
+    <a href="w08/d5/stretch-practice/build-another-django-app/build-another-app.md">Stretch Lab: Build Another App</a><br><br>
+    <a href="project-3/project-3-requirements.md">Project 3</a>- Work on Group Proj
+  </td>
+  <td>
+    Project 3<br><br>
+    FinchCollector Lab Pt. 6 (Django Auth) <strong>(Deliverable #5)<br>Due: Next Friday</strong><br><br>
+  </td>
+</tr>
+</tbody>
+</table>
+<br><br>
+
 ### Week 7 (November 2 - 6)
 
 <table>
