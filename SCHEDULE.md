@@ -54,7 +54,7 @@
   <td>
     Lab: FinchCollector Pt. 3 (Class Views) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
     Lab: FinchCollector Pt. 4 (One to Many models) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
-    <strong>Working in a group (.gitignore, virtual environments, basic agile project management)</strong>
+    <strong>Working in a group</strong> (.gitignore, virtual environments, basic agile project management)
   </td>
   <td>
     Project 3- prepare and plan.<br><br>
