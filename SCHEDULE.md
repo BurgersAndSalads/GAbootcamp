@@ -24,7 +24,7 @@
 <tr>
   <td><strong>Morning</strong></td>
   <td>
-    Python Virtual Environments (optional)<br><br>
+    Python <a href="https://docs.python.org/3/tutorial/venv.html">Virtual Environments</a> (optional)<br><br>
     Work on Project 3
   </td>
   <td>
