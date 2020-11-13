@@ -30,7 +30,7 @@
     Project 3<br><br>
     CS Topics: Sorting: <a href="computer-science/03-cs-intro-to-sorting">Intro</a> and <a href="computer-science/04-cs-basic-sorts">Basic Sorts</a>. <br>(On your own: <a href="computer-science/05-cs-divide-and-conquer-sorts">divide and conquer</a> sorts)
   </td>
-  <td><strong>Project 3 Presentations</strong></td>
+  <td><strong>Attend DSI Presentations</strong></td>
 </tr>
 
 <tr>
@@ -42,8 +42,10 @@
     Project 3<br><br>
     <a href="w09/d2/deploy-django-heroku.md">Deploy Django to Heroku</a>
   </td>
-  <td>Project 3<br><br>
-    <strong>George at 4pm</strong><br><br>
+  <td>
+    <strong>Project 3 Presentations</strong>
+    <br><br>
+    <strong>Zoe at 4pm</strong><br><br>
     <a href="w09/d1/django-testing">Django Testing</a> (optional topic)
   </td>
   <td>Unit 3 Assessment</td>
