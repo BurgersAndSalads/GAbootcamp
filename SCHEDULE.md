@@ -23,19 +23,30 @@
 
 <tr>
   <td><strong>Morning</strong></td>
-  <td>Project 3</td>
-  <td>Project 3</td>
+  <td>
+    Work on Project 3
+  </td>
+  <td>
+    CS Topics: Sorting: <a href="computer-science/03-cs-intro-to-sorting">Intro</a>
+    <br><br>
+    Project 3
+  </td>
   <td>Project 3</td>
   <td>
     Project 3<br><br>
-    CS Topics: Sorting: <a href="computer-science/03-cs-intro-to-sorting">Intro</a> and <a href="computer-science/04-cs-basic-sorts">Basic Sorts</a>. <br>(On your own: <a href="computer-science/05-cs-divide-and-conquer-sorts">divide and conquer</a> sorts)
+     and <a href="computer-science/04-cs-basic-sorts">Basic Sorts</a>. <br>(On your own: <a href="computer-science/05-cs-divide-and-conquer-sorts">divide and conquer</a> sorts)
   </td>
-  <td><strong>Attend DSI Presentations</strong></td>
+  <td>
+    <strong>Attend DSI Presentations</strong>
+  </td>
 </tr>
 
 <tr>
   <td><strong>Afternoon</strong></td>
-  <td>Project 3</td>
+  <td>
+    Python Decorators and Virtual Environments<br><br>
+    Work on Project 3
+  </td>
   <td>Project 3
   </td>
   <td>
