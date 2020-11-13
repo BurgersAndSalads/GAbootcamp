@@ -29,7 +29,6 @@
   </td>
   <td>
     CS Topics: Sorting: <a href="computer-science/03-cs-intro-to-sorting">Intro</a> and <a href="computer-science/04-cs-basic-sorts">Basic Sorts</a><br><br>
-    <br><br>
     Project 3
   </td>
   <td>
