@@ -28,13 +28,13 @@
     Work on Project 3
   </td>
   <td>
-    CS Topics: Sorting: <a href="computer-science/03-cs-intro-to-sorting">Intro</a>
+    CS Topics: Sorting: <a href="computer-science/03-cs-intro-to-sorting">Intro</a> and <a href="computer-science/04-cs-basic-sorts">Basic Sorts</a><br><br>
     <br><br>
     Project 3
   </td>
   <td>Project 3</td>
   <td>
-    <a href="computer-science/04-cs-basic-sorts">Basic Sorts</a><br><br>
+    
     Project 3<br><br>
   </td>
   <td>
@@ -70,7 +70,7 @@
   <td><strong>Homework</strong></td>
   <td>
     Project 3<br><br>
-    <br><br>MyGA <strong>Sorting</strong> Modules
+    Review the MyGA <strong>Sorting</strong> Modules
   </td>
   <td>Project 3</td>
   <td>Project 3</td>
