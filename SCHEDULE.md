@@ -39,7 +39,7 @@
   </td>
   <td>
     <strong>Attend DSI Final Presentations</strong><br><br>
-    <a href="computer-science/05-cs-divide-and-conquer-sorts">divide and conquer</a>
+    <a href="computer-science/05-cs-divide-and-conquer-sorts">Divide and conquer sorts</a>
   </td>
 </tr>
 
