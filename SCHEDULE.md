@@ -68,9 +68,12 @@
 
 <tr>
   <td><strong>Homework</strong></td>
+  <td>
+    Project 3<br><br>
+    <br><br>MyGA <strong>Sorting</strong> Modules
+  </td>
   <td>Project 3</td>
   <td>Project 3</td>
-  <td>Project 3<br><br>MyGA Sorting Modules</td>
   <td>Project 3</td>
   <td>Review and Prep for Unit 4</td>
 </tr>
