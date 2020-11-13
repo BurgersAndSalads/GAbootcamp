@@ -32,10 +32,11 @@
     <br><br>
     Project 3
   </td>
-  <td>Project 3</td>
   <td>
-    
-    Project 3<br><br>
+    Project 3
+  </td>
+  <td>
+    Project 3
   </td>
   <td>
     <strong>Attend DSI Final Presentations</strong><br><br>
