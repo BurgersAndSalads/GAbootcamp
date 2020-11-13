@@ -32,6 +32,7 @@
     Project 3
   </td>
   <td>
+    <a href="computer-science/05-cs-divide-and-conquer-sorts">Divide and conquer sorts</a><br><br>
     Project 3
   </td>
   <td>
@@ -39,7 +40,6 @@
   </td>
   <td>
     <strong>Attend DSI Final Presentations</strong><br><br>
-    <a href="computer-science/05-cs-divide-and-conquer-sorts">Divide and conquer sorts</a>
   </td>
 </tr>
 
