@@ -34,11 +34,12 @@
   </td>
   <td>Project 3</td>
   <td>
+    <a href="computer-science/04-cs-basic-sorts">Basic Sorts</a><br><br>
     Project 3<br><br>
-     and <a href="computer-science/04-cs-basic-sorts">Basic Sorts</a>. <br>(On your own: <a href="computer-science/05-cs-divide-and-conquer-sorts">divide and conquer</a> sorts)
   </td>
   <td>
-    <strong>Attend DSI Presentations</strong>
+    <strong>Attend DSI Final Presentations</strong><br><br>
+    <a href="computer-science/05-cs-divide-and-conquer-sorts">divide and conquer</a>
   </td>
 </tr>
 
