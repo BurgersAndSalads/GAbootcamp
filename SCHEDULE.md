@@ -44,8 +44,7 @@
 <tr>
   <td><strong>Afternoon</strong></td>
   <td>
-    <a href="w07/d3/python-decorators.md">Python Decorators</a> (optional)<br><br>
-   Virtual Environments (optional)<br><br>
+    <a href="w07/d3/python-decorators.md">Python Decorators</a> (optional) and Virtual Environments (optional)<br><br>
    Work on Project 3
   </td>
   <td>Project 3
