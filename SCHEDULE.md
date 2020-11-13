@@ -59,9 +59,11 @@
     <strong>Project 3 Presentations</strong>
     <br><br>
     <strong>Zoe at 4pm</strong><br><br>
+  </td>
+  <td>
+    Unit 3 Assessment<br><br>
     <a href="w09/d1/django-testing">Django Testing</a> (optional topic)
   </td>
-  <td>Unit 3 Assessment</td>
 </tr>
 
 <tr>
