@@ -6,6 +6,61 @@
 
 ## Unit 3
 
+### Week 9 (November 16 - 20)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <td>Monday</td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>Project 3</td>
+  <td>Project 3</td>
+  <td>Project 3</td>
+  <td>
+    Project 3<br><br>
+    CS Topics: Sorting: <a href="computer-science/03-cs-intro-to-sorting">Intro</a> and <a href="computer-science/04-cs-basic-sorts">Basic Sorts</a>. <br>(On your own: <a href="computer-science/05-cs-divide-and-conquer-sorts">divide and conquer</a> sorts)
+  </td>
+  <td><strong>Project 3 Presentations</strong></td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>Project 3</td>
+  <td>Project 3
+  </td>
+  <td>
+    Project 3<br><br>
+    <a href="w09/d2/deploy-django-heroku.md">Deploy Django to Heroku</a>
+  </td>
+  <td>Project 3<br><br>
+    <strong>George at 4pm</strong><br><br>
+    <a href="w09/d1/django-testing">Django Testing</a> (optional topic)
+  </td>
+  <td>Unit 3 Assessment</td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>Project 3</td>
+  <td>Project 3</td>
+  <td>Project 3<br><br>MyGA Sorting Modules</td>
+  <td>Project 3</td>
+  <td>Review and Prep for Unit 4</td>
+</tr>
+</tbody>
+</table>
+
+
 ### Week 8 (November 9 - November 13)
 
 <table>
