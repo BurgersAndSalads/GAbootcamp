@@ -6,6 +6,81 @@
 
 ## Unit 3
 
+### Week 9 (November 16 - 20)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <td>Monday</td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    Python <a href="https://docs.python.org/3/tutorial/venv.html">Virtual Environments</a> (optional)<br><br>
+    Work on Project 3
+  </td>
+  <td>
+    CS Topics: Sorting: <a href="computer-science/03-cs-intro-to-sorting">Intro</a> and <a href="computer-science/04-cs-basic-sorts">Basic Sorts</a><br><br>
+    Project 3
+  </td>
+  <td>
+    <a href="computer-science/05-cs-divide-and-conquer-sorts">Divide and conquer sorts</a><br><br>
+    Project 3
+  </td>
+  <td>
+    Project 3
+  </td>
+  <td>
+    <strong>Attend DSI Final Presentations</strong><br><br>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w07/d3/python-decorators.md">Python Decorators</a> (optional)<br><br>
+   Work on Project 3
+  </td>
+  <td>Project 3
+  </td>
+  <td>
+    Project 3<br><br>
+    <a href="w09/d2/deploy-django-heroku.md">Deploy Django to Heroku</a>
+  </td>
+  <td>
+    <strong>Project 3 Presentations</strong>
+    <br><br>
+    <strong>Zoe at 4pm</strong><br><br>
+  </td>
+  <td>
+    Unit 3 Assessment<br><br>
+    <a href="w09/d1/django-testing">Django Testing</a> (optional topic)
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+    Project 3<br><br>
+    Review the MyGA <strong>Sorting</strong> Modules
+  </td>
+  <td>Project 3</td>
+  <td>Project 3</td>
+  <td>Project 3</td>
+  <td>Review and Prep for Unit 4</td>
+</tr>
+</tbody>
+</table>
+
+
 ### Week 8 (November 9 - November 13)
 
 <table>
