@@ -40,6 +40,7 @@
   </td>
   <td>
     <strong>Attend DSI Final Presentations</strong><br><br>
+    <a href="computer-science/06-cs-search-algorithms">Intro to Search</a>
   </td>
 </tr>
 
