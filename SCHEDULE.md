@@ -56,7 +56,7 @@
     <a href="w10/d3/styling-react-lab">Styling React Lab</a>
   </td>
   <td>
-    <strong>George at 1:45pm - 3:45pm</strong>
+    <strong>Zoe at 1:45pm - 3:45pm</strong>
   </td>
   <td>
     <a href="w10/d4/handling-input-in-react.md">Handling Input in React</a><br><br>
