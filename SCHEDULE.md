@@ -114,7 +114,8 @@
     <a href="w10/d4/event-handling-lab">Event Handling Lab</a>
   </td>
   <td>
-    <a href="w10/d4/handling-input-in-react.md">Handling Input in React</a><br><br>
+    P4 Requirements overview<br><br>
+    <a href="w10/d4/handling-input-in-react.md">Handling Input in React</a>
   </td>
 </tr>
 
