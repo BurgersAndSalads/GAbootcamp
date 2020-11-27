@@ -60,9 +60,12 @@
   </td>
   <td>
     <strong>P4 Capstone Project Pitches</strong><br><br>
-    Optional Topics
-       1. Testing React Apps
-       1. React Redux and Time Travel
+    Possible Optional Topics (at instructor's discretion):<br>
+     <ol>
+       <li>Testing React Apps</li>
+       <li>React Redux</li>
+       <li>React Native</li>
+      </ol>
    JS/Algorithms Mock Interviews
   </td>
 </tr>
