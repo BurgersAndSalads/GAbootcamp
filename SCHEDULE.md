@@ -6,7 +6,83 @@
 
 ## Unit 4
 
-### Week 10 (Sept 14 - Oct 2)
+### Week 11 (Nov 30 - Dec 4)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w11/d1/react-router">React Router</a></br></br>
+    <a href="w11/d1/mastermind-settings-lab">React Router Lab</a>
+  </td>
+  <td>
+    <a href="w11/d2/intro-to-react-hooks">React Hooks</a>
+  </td>
+  <td>
+    <a href="w11/d3/full-stack-react">Full Stack React</a>
+  </td>
+  <td>
+    <a href="w11/d4/token-based-auth">Token Based Auth</a>
+  </td>
+  <td>
+     P4 Planning & <a href="w11/extra-resources/tips-for-getting-started-on-p4.md">Getting Started</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w11/d1/component-lifecycle-methods">Component Lifecycle Methods</a></br>
+  </td>
+  <td>
+    <a href="w11/d2/react-ajax">React AJAX</a><br><br>
+    <a href="w11/d2/react-ajax-lab">React AJAX Lab</a> (Deliverable #3)
+  </td>
+  <td>
+    <a href="w11/d3/full-stack-react-lab">Full Stack React Lab</a>
+  </td>
+  <td>
+    <a href="w11/d4/token-based-auth">Token Based Auth</a><br><br>
+    P4 Planning<br><br>
+    <strong>George at 4pm</strong>
+  </td>
+  <td>
+    <strong>P4 Capstone Project Pitches</strong><br><br>
+    Possible Optional Topics (at instructor's discretion):<br>
+     <ol>
+       <li>Testing React Apps</li>
+       <li>React Redux</li>
+       <li>React Native</li>
+      </ol>
+   JS/Algorithms Mock Interviews
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>React Router Lab</td>
+  <td>React AJAX Lab</td>
+  <td>React Fullstack Lab</td>
+  <td>Finish Labs</td>
+  <td>Project 4</td>
+</tr>
+</tbody>
+</table>
+
+
+### Week 10 (Nov 23 - 27)
 
 <table>
 <thead>
@@ -38,7 +114,8 @@
     <a href="w10/d4/event-handling-lab">Event Handling Lab</a>
   </td>
   <td>
-    <a href="w10/d4/handling-input-in-react.md">Handling Input in React</a><br><br>
+    P4 Requirements overview<br><br>
+    <a href="w10/d4/handling-input-in-react.md">Handling Input in React</a>
   </td>
 </tr>
 
@@ -59,8 +136,10 @@
     <strong>Zoe at 1:45pm - 3:45pm</strong>
   </td>
   <td>
-    <a href="w10/d4/handling-input-in-react.md">Handling Input in React</a><br><br>
-    Review / Practice Making more React Apps
+    Finish Labs<br><br>
+    How to use a Debugger (Optional Lecture)<br><br>
+    React Native (Optional "Lecture")<br><br>
+    Algorithm interview questions practice (Optional)<br><br>
   </td>
 </tr>
 
