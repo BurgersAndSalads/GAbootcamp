@@ -135,8 +135,9 @@
     <strong>Zoe at 1:45pm - 3:45pm</strong>
   </td>
   <td>
-    <a href="w10/d4/handling-input-in-react.md">Handling Input in React</a><br><br>
-    Review / Practice Making more React Apps
+    Finish Lab<br><br>
+    How to use a Debugger<br><br>
+    Algorithm interview questions practice<br><br>
   </td>
 </tr>
 
