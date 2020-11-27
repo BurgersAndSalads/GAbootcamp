@@ -45,7 +45,7 @@ class App extends Component {
     let winTries = this.getWinTries();
     return (
       <div className="App">
-        <header className="App-header">React Mastermind</header>
+        <header className="App-header">Mastermind</header>
         <div className="flex-h">
           <GameBoard
             colors={colors}
