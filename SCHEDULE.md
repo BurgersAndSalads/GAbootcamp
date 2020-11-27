@@ -135,9 +135,9 @@
     <strong>Zoe at 1:45pm - 3:45pm</strong>
   </td>
   <td>
-    Finish Lab<br><br>
-    How to use a Debugger<br><br>
-    Algorithm interview questions practice<br><br>
+    Finish Labs<br><br>
+    How to use a Debugger (Optional Lecture)<br><br>
+    Algorithm interview questions practice (Optional)<br><br>
   </td>
 </tr>
 
