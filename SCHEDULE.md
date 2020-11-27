@@ -137,8 +137,8 @@
   </td>
   <td>
     Finish Labs<br><br>
-    How to use a Debugger (Optional Lecture)<br><br>
-    <a href="react-native-intro-master">React Native (Optional "Lecture")</a><br><br>
+    <a href="https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#_debugging-react">How to use a Debugger</a> (Optional Lecture)<br><br>
+    <a href="w10/d5/react-native-intro-master">React Native (Optional "Lecture")</a><br><br>
     Algorithm interview questions practice (Optional)<br><br>
   </td>
 </tr>
