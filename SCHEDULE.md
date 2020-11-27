@@ -59,22 +59,11 @@
     <strong>George at 4pm</strong>
   </td>
   <td>
-    <strong>P4 Capstone Project Pitches</strong>
-    <br><br><br>
-    React Overview Review<br><br>
-    Possible Optional Topics:<br>
-       <ol>
-         <li>Putting stuff into a user's cookie</li>
-         <li>Jwt using a cookie</li>
-        <li>Closures</li>
-        <li>Prototype Chain</li>
-      </ol><br><br>
-    Icebox for optional topics:<br>
-    <ol>
-       <li>Testing React Apps</li>
-       <li>React Redux and Time Travel</li>
-    </ol>
-  JS/Algo Mock Interviews
+    <strong>P4 Capstone Project Pitches</strong><br><br>
+    Optional Topics
+       1. Testing React Apps
+       1. React Redux and Time Travel
+   JS/Algorithms Mock Interviews
   </td>
 </tr>
 
