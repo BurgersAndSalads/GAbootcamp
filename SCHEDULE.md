@@ -6,7 +6,91 @@
 
 ## Unit 4
 
-### Week 10 (Sept 14 - Oct 2)
+### Week 11 (Nov 30 - Dec 4)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w11/d1/react-router">React Router</a></br></br>
+    <a href="w11/d1/mastermind-settings-lab">React Router Lab</a>
+  </td>
+  <td>
+    <a href="w11/d2/intro-to-react-hooks">React Hooks</a>
+  </td>
+  <td>
+    <a href="w11/d3/full-stack-react">Full Stack React</a>
+  </td>
+  <td>
+    <a href="w11/d4/token-based-auth">Token Based Auth</a>
+  </td>
+  <td>
+     P4 Planning & <a href="w11/extra-resources/tips-for-getting-started-on-p4.md">Getting Started</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w11/d1/component-lifecycle-methods">Component Lifecycle Methods</a></br>
+  </td>
+  <td>
+    <a href="w11/d2/react-ajax">React AJAX</a><br><br>
+    <a href="w11/d2/react-ajax-lab">React AJAX Lab</a> (Deliverable #3)
+  </td>
+  <td>
+    <a href="w11/d3/full-stack-react-lab">Full Stack React Lab</a>
+  </td>
+  <td>
+    <a href="w11/d4/token-based-auth">Token Based Auth</a><br><br>
+    P4 Planning<br><br>
+    <strong>George at 4pm</strong>
+  </td>
+  <td>
+    <strong>P4 Capstone Project Pitches</strong>
+    <br><br><br>
+    React Overview Review<br><br>
+    Possible Optional Topics:<br>
+       <ol>
+         <li>Putting stuff into a user's cookie</li>
+         <li>Jwt using a cookie</li>
+        <li>Closures</li>
+        <li>Prototype Chain</li>
+      </ol><br><br>
+    Icebox for optional topics:<br>
+    <ol>
+       <li>Testing React Apps</li>
+       <li>React Redux and Time Travel</li>
+    </ol>
+  JS/Algo Mock Interviews
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>React Router Lab</td>
+  <td>React AJAX Lab</td>
+  <td>React Fullstack Lab</td>
+  <td>Finish Labs</td>
+  <td>Project 4</td>
+</tr>
+</tbody>
+</table>
+
+
+### Week 10 (Nov 23 - 27)
 
 <table>
 <thead>
