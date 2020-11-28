@@ -37,7 +37,7 @@
     <a href="w11/d4/token-based-auth">Token Based Auth</a>
   </td>
   <td>
-     P4 Planning & <a href="w11/extra-resources/tips-for-getting-started-on-p4.md">Getting Started</a>
+     <a href="w11/extra-resources/tips-for-getting-started-on-p4.md">P4 - Getting Started</a>
   </td>
 </tr>
 
@@ -55,11 +55,10 @@
   </td>
   <td>
     <a href="w11/d4/token-based-auth">Token Based Auth</a><br><br>
-    P4 Planning<br><br>
-    <strong>George at 4pm</strong>
+    <strong>Zoe at 1:45-3:45pm</strong><br><br>
+    <strong>P4 Capstone Project Pitches & Planning Materials</strong><br><br>
   </td>
   <td>
-    <strong>P4 Capstone Project Pitches</strong><br><br>
     Possible Optional Topics (at instructor's discretion):<br>
      <ol>
        <li>Testing React Apps</li>
