@@ -13,14 +13,32 @@ const colors = {
 class App extends Component {
   constructor() {
     super();
+    console.log("APP: CONSTRUCTOR RAN!!!");
+
     this.state = {...this.getInitialState(), difficulty: 'Easy'};
+
   }
 
+  /**
+   * @LIFE_CYCLE_METHODS
+   */
+
+   componentDidMount() {
+     console.log('APP: COMPONENT DID MOUNT');
+   }
+
+   componentDidUpdate(prevProps, prevState) {
+     console.log("APP: COMPONENT DID UPDATE");
+   }
+
+
+  //  Initial Load
   getInitialState() {
     return {
       selColorIdx: 0,
       guesses: [this.getNewGuess()],
-      code: this.genCode()
+      code: this.genCode(),
+      elapsedTime: 0,
     };
   }
 
@@ -46,11 +64,14 @@ class App extends Component {
     return this.state.guesses[lastGuess].score.perfect === 4 ? lastGuess + 1 : 0;
   }
 
+
+  // Handlers
+
   handleDifficultyChange = (level) => {
     // Use callback to ensure level is updated BEFORE calling handleNewGameClick
     this.setState({difficulty: level}, () => this.handleNewGameClick());
   }
-  
+
   handleColorSelection = (colorIdx) => {
     this.setState({selColorIdx: colorIdx});
   }
@@ -142,8 +163,14 @@ class App extends Component {
     });
   }
 
+  handleTimerUpdate = () => this.setState(state => ({
+    elapsedTime: ++state.elapsedTime
+  }));
+
   render() {
     let winTries = this.getWinTries();
+
+    console.log("APP: RENDER");
     return (
       <div>
         <header className='header-footer'>R E A C T &nbsp;&nbsp;&nbsp;  M A S T E R M I N D</header>
@@ -158,11 +185,13 @@ class App extends Component {
               handleNewGameClick={this.handleNewGameClick}
               handlePegClick={this.handlePegClick}
               handleScoreClick={this.handleScoreClick}
+              elapsedTime={this.state.elapsedTime}
+              handleTimerUpdate={this.handleTimerUpdate}
             />
           } />
-          <Route exact path='/settings' render={props => 
+          <Route exact path='/settings' render={props =>
             <SettingsPage
-              {...props} 
+              {...props}
               colorsLookup={colors}
               difficulty={this.state.difficulty}
               handleDifficultyChange={this.handleDifficultyChange}
