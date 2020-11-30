@@ -24,6 +24,9 @@ During this project, **your instructors are going to be evaluating your ability 
 
 In fact, **your ability to work in a team during this project is more important to your instructors than the project itself**.
 
+For tips on how to be your best "team player" self, kindly check out the following attached pages:
+- <a href="howtoworkingroups.md">How To Work in Tech Groups</a>
+- <a href="groupbenefits.md">One Benefit of Working in Groups: Interview Stories</a>
 ---
 
 ## Planning & Presentation Requirements

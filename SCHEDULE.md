@@ -4,7 +4,234 @@
 
 <br>
 
+## Unit 4
+
+### Week 11 (Nov 30 - Dec 4)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w11/d1/react-router">React Router</a></br></br>
+    <a href="w11/d1/mastermind-settings-lab">React Router Lab</a>
+  </td>
+  <td>
+    <a href="w11/d2/intro-to-react-hooks">React Hooks</a>
+  </td>
+  <td>
+    <a href="w11/d3/full-stack-react">Full Stack React</a>
+  </td>
+  <td>
+    <a href="w11/d4/token-based-auth">Token Based Auth</a>
+  </td>
+  <td>
+     <a href="w11/extra-resources/tips-for-getting-started-on-p4.md">P4 - Getting Started</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w11/d1/component-lifecycle-methods">Component Lifecycle Methods</a></br>
+  </td>
+  <td>
+    <a href="w11/d2/react-ajax">React AJAX</a><br><br>
+    <a href="w11/d2/react-ajax-lab">React AJAX Lab</a> (Deliverable #3)
+  </td>
+  <td>
+    <a href="w11/d3/full-stack-react-lab">Full Stack React Lab</a>
+  </td>
+  <td>
+    <a href="w11/d4/token-based-auth">Token Based Auth</a><br><br>
+    <strong>Zoe at 1:45-3:45pm</strong><br><br>
+    <strong>P4 Capstone Project Pitches & Planning Materials</strong><br><br>
+  </td>
+  <td>
+    Possible Optional Topics (at instructor's discretion):<br>
+     <ol>
+       <li>Testing React Apps</li>
+       <li>React Redux</li>
+       <li>React Native</li>
+      </ol>
+   JS/Algorithms Mock Interviews
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>React Router Lab</td>
+  <td>React AJAX Lab</td>
+  <td>React Fullstack Lab</td>
+  <td>Finish Labs</td>
+  <td>Project 4</td>
+</tr>
+</tbody>
+</table>
+
+
+### Week 10 (Nov 23 - 27)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w10/d1/intro-to-spas-and-react.md">Intro to SPAs and React</a></br></br>
+    <a href="w10/d1/intro-to-jsx.md">Intro to JSX</a>
+  </td>
+  <td>
+    <a href="w10/d2/components-in-react">Components in React</a>
+  </td>
+  <td>
+    <a href="w10/d3/updating-state-react.md">Updating State in React</a>
+  </td>
+  <td>
+    <a href="w10/d4/event-handling-in-react">Event Handling in React</a></br></br>
+    <a href="w10/d4/event-handling-lab">Event Handling Lab</a>
+  </td>
+  <td>
+    P4 Requirements overview<br><br>
+    <a href="w10/d4/handling-input-in-react.md">Handling Input in React</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w10/d1/react-floorplan-lab.md">React Floorplan Lab</a> (Deliverable #1)
+  </td>
+  <td>
+    <a href="w10/d2/react-state-props">React State and Props</a></br></br>
+    <a href="w10/d2/react-students-lab.md">Lab: React Students</a> (Deliverable #2)
+  </td>
+  <td>
+    <a href="w10/d3/styling-react-components">Styling React Components</a><br><br>
+    <a href="w10/d3/styling-react-lab">Styling React Lab</a>
+  </td>
+  <td>
+    <strong>Zoe at 1:45pm - 3:45pm</strong>
+  </td>
+  <td>
+    Finish Labs<br><br>
+    <a href="https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#_debugging-react">How to use a Debugger</a> (Optional Lecture)<br><br>
+    <a href="w10/d5/react-native-intro-master">React Native (Optional "Lecture")</a><br><br>
+    Algorithm interview questions practice (Optional)<br><br>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td><a href="w10/d1/react-floorplan-lab.md">React Floorplan Lab (Deliverable)</a></td>
+  <td><a href="w10/d2/react-students-lab.md">Lab: React Students (Deliverable)</a></td>
+  <td><a href="w10/d3/styling-react-lab">Styling React Lab</a></td>
+  <td><a href="w10/d4/event-handling-lab">Event Handling Lab</a></td>
+  <td>Lookahead: React Router, Component Lifecycle Methods</td>
+</tr>
+</tbody>
+</table>
+
+
+
 ## Unit 3
+
+### Week 9 (November 16 - 20)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <td>Monday</td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    Python <a href="https://docs.python.org/3/tutorial/venv.html">Virtual Environments</a> (optional)<br><br>
+    Work on Project 3
+  </td>
+  <td>
+    CS Topics: Sorting: <a href="computer-science/03-cs-intro-to-sorting">Intro</a> and <a href="computer-science/04-cs-basic-sorts">Basic Sorts</a><br><br>
+    Project 3
+  </td>
+  <td>
+    <a href="computer-science/05-cs-divide-and-conquer-sorts">Divide and conquer sorts</a><br><br>
+    Project 3
+  </td>
+  <td>
+    Project 3
+  </td>
+  <td>
+    <strong>Attend DSI Final Presentations</strong><br><br>
+    <a href="computer-science/06-cs-search-algorithms">Intro to Search</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <a href="w07/d3/python-decorators.md">Python Decorators</a> (optional)<br><br>
+   Work on Project 3
+  </td>
+  <td>Project 3
+  </td>
+  <td>
+    Project 3<br><br>
+    <a href="w09/d2/deploy-django-heroku.md">Deploy Django to Heroku</a>
+  </td>
+  <td>
+    <strong>Project 3 Presentations</strong>
+    <br><br>
+    <strong>Zoe at 4pm</strong><br><br>
+  </td>
+  <td>
+    Unit 3 Assessment<br><br>
+    <a href="w09/d1/django-testing">Django Testing</a> (optional topic)
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+    Project 3<br><br>
+    Review the MyGA <strong>Sorting</strong> Modules
+  </td>
+  <td>Project 3</td>
+  <td>Project 3</td>
+  <td>Project 3</td>
+  <td>Review and Prep for Unit 4</td>
+</tr>
+</tbody>
+</table>
+
 
 ### Week 8 (November 9 - November 13)
 
@@ -54,6 +281,7 @@
   <td>
     Lab: FinchCollector Pt. 3 (Class Views) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
     Lab: FinchCollector Pt. 4 (One to Many models) <br><strong>(Pt. 6 is deliverable)</strong><br><br>
+    <strong><a href="project-3/project-3-requirements.md">Project 3 intro</a>: Working in a group</strong> (.gitignore, virtual environments, basic agile project management)
   </td>
   <td>
     Project 3- prepare and plan.<br><br>
@@ -67,7 +295,7 @@
     Possible Optional topics: <br>
     (1) <a href="w07/d3/python-decorators.md">Python Decorators</a>, <br>
     (2) Deploying to a Virtual Private Server (put your site on an IP address or domain!)<br>
-    (3) <a href="https://channels.readthedocs.io/en/latest/tutorial/part_1.html">Django Channels (socketio for django)</a>(time permitting)<br>
+    (3) Python virtual environments<br>
   </td>
 </tr>
 
