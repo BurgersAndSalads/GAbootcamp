@@ -21,6 +21,16 @@ At a high level, it’s important distinction to make that we are no longer on t
 
 React Native uses [Node.js](https://nodejs.org/), a JavaScript runtime to build our JavaScript code, as well as requires several dependencies in order to run. We can install these with `brew`.
 
+### Expo
+
+React Native's <a href="https://reactnative.dev/docs/environment-setup">environment setup documentation</a> states:
+
+>If you are new to mobile development, the easiest way to get started is with Expo CLI. Expo is a set of tools built around React Native and, while it has many features, the most relevant feature for us right now is that it can get you writing a React Native app within minutes. You will only need a recent version of Node.js and a phone or emulator. If you'd like to try out React Native directly in your web browser before installing any tools, you can try out Snack.
+
+>If you are already familiar with mobile development, you may want to use React Native CLI. It requires Xcode or Android Studio to get started. If you already have one of these tools installed, you should be able to get up and running within a few minutes. If they are not installed, you should expect to spend about an hour installing and configuring them.
+
+So, although Expo is easier, and Snack lets you do it in the browser, this tutorial will use React Native CLI with Xcode (mac-only). If you are on windows, or want to develop for android, check out the above documentation to get setup. The code itself should be the same.
+
 ### Installing dependencies
 
 First, we need to use `homebrew` to install [watchman](https://facebook.github.io/watchman/), a file watcher from Facebook:
