@@ -37,7 +37,12 @@
     <a href="w11/d4/token-based-auth">Token Based Auth</a>
   </td>
   <td>
-     <a href="w11/extra-resources/tips-for-getting-started-on-p4.md">P4 - Getting Started</a>
+     Possible Optional Topics (at instructor's discretion):<br>
+     <ol>
+       <li><a href="w11/d5/react-testing">Testing React Apps (TDD / Unit Testing)</a></li>
+       <li><a href="w11/d5/e2e-react-jest-puppeteer">Testing React Apps (e2e / robot chrome)</a></li>
+     </ol><br><br>
+     <a href="w11/extra-resources/tips-for-getting-started-on-p4.md">Start Work on P4</a>
   </td>
 </tr>
 
@@ -61,10 +66,9 @@
   <td>
     Possible Optional Topics (at instructor's discretion):<br>
      <ol>
-       <li>Testing React Apps</li>
-       <li>React Redux</li>
-       <li>React Native</li>
-      </ol>
+       <li><a href="w11/d5/redux">React Redux</a></li> and <a href="w11/d5/redux-lab">Redux Lab</a></li>
+       <li><a href="w11/d5/react-native-intro">Intro to React Native</a></li>
+     </ol>
    JS/Algorithms Mock Interviews
   </td>
 </tr>
