@@ -66,10 +66,10 @@
   <td>
     Possible Optional Topics (at instructor's discretion):<br>
      <ol>
+       <li>JS Mock Interviews</li>
        <li><a href="w11/d5/redux">React Redux</a></li> and <a href="w11/d5/redux-lab">Redux Lab</a></li>
        <li><a href="w11/d5/react-native-intro">Intro to React Native</a></li>
      </ol>
-   JS/Algorithms Mock Interviews
   </td>
 </tr>
 
