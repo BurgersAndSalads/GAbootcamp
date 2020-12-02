@@ -41,8 +41,8 @@
      <ol>
        <li><a href="w11/d5/react-testing">Testing React Apps (TDD / Unit Testing)</a></li>
        <li><a href="w11/d5/e2e-react-jest-puppeteer">Testing React Apps (e2e / robot chrome)</a></li>
-     </ol><br><br>
-     <a href="w11/extra-resources/tips-for-getting-started-on-p4.md">Start Work on P4</a>
+     </ol>
+     <a href="w11/extra-resources/tips-for-getting-started-on-p4.md">Start Work on P4</a><br><br>
   </td>
 </tr>
 
