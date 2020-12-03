@@ -1,5 +1,9 @@
 # Intro to React Native
 
+## Caveat
+
+"THIS LECTURE MAY BE SLIGHTLY OUT OF DATE, and MAY NOT WORK. THAT SAID IT CAN STILL BE USED AS A GUIDELINE EVEN IF YOU RUN INTO ERRORS ALONG THE WAY." -alex
+
 ## Learning Objectives
 
 - Explain the problem React Native solves and its approach to solving it
