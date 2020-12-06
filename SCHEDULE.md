@@ -84,9 +84,8 @@
     <a href="computer-science/10-binary-trees-and-tries">myGA: Binary Trees</a>
   </td>
   <td>
-    Celebrate!!<br><br>
     Finish off the <a href="computer-science/">CS Modules</a><br><br>
-    Read: <a href="w13/next-steps">Next Steps</a>(Besides celebrate!!)<br><br>
+    Read: <a href="w13/next-steps">Next Steps</a><br><br>
     Celebrate!!
   </td>
 </tr>
