@@ -6,6 +6,96 @@
 
 ## Unit 4
 
+
+### Week 12 (September 28 - October 2)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    <a href="computer-science/07-linked-lists">CS Topics: Linked Lists</a><br><br>
+    Project 4
+  </td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    <a href="computer-science/08-stacks-and-queues">CS Topics: Stacks and Queues</a>
+    Project 4
+  </td>
+  <td>
+    <strong>Final Presentations</strong><br><br>
+    <a href="computer-science/10-binary-trees-and-tries">CS Topics: Binary Trees</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    <strong>Final Outcomes with Zoe</strong><br><br>
+    Project 4 Assessment <br><br>
+    Celebrate!!
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+    Project 4<br><br>
+    <a href="computer-science/07-linked-lists">myGA: Linked Lists</a>
+  </td>
+  <td>
+    Project 4<br><br>
+    <a href="computer-science/08-stacks-and-queues">myGA: Stacks and Queues</a>
+  </td>
+  <td>
+    Project 4<br><br>
+    <a href="computer-science/09-hash-tables">myGA: Hash Tables</a>
+  </td>
+  <td>
+    Project 4<br><br>
+    <a href="computer-science/10-binary-trees-and-tries">Binary Trees</a>
+  </td>
+  <td>
+    Celebrate!!<br><br>
+    Finish off the <a href="computer-science/">CS Modules</a><br><br>
+    Read: <a href="w13/next-steps">What do I do now?</a> (Besides celebrate!!)
+    Celebrate!!
+  </td>
+</tr>
+
+</tbody>
+</table>
+
+
+
 ### Week 11 (Nov 30 - Dec 4)
 
 <table>
