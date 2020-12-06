@@ -39,7 +39,7 @@
     Project 4
   </td>
   <td>
-    <strong>Final Presentations</strong><br><br>
+    <strong>Final Presentations UXDI/SEI</strong><br><br>
     <a href="computer-science/10-binary-trees-and-tries">CS Topics: Binary Trees</a>
   </td>
 </tr>
