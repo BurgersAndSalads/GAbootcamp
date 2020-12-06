@@ -7,7 +7,7 @@
 ## Unit 4
 
 
-### Week 12 (September 28 - October 2)
+### Week 12 (Dec 7 - 11)
 
 <table>
 <thead>
@@ -35,7 +35,7 @@
     Project 4
   </td>
   <td>
-    <a href="computer-science/08-stacks-and-queues">CS Topics: Stacks and Queues</a>
+    <a href="computer-science/08-stacks-and-queues">CS Topics: Stacks and Queues</a><br><br>
     Project 4
   </td>
   <td>
@@ -81,12 +81,12 @@
   </td>
   <td>
     Project 4<br><br>
-    <a href="computer-science/10-binary-trees-and-tries">Binary Trees</a>
+    <a href="computer-science/10-binary-trees-and-tries">myGA: Binary Trees</a>
   </td>
   <td>
     Celebrate!!<br><br>
     Finish off the <a href="computer-science/">CS Modules</a><br><br>
-    Read: <a href="w13/next-steps">What do I do now?</a> (Besides celebrate!!)
+    Read: <a href="w13/next-steps">Next Steps</a>(Besides celebrate!!)<br><br>
     Celebrate!!
   </td>
 </tr>
