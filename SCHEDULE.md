@@ -81,6 +81,7 @@
   </td>
   <td>
     Project 4<br><br>
+    Mock Technical Interviews<br><br>
     <a href="computer-science/10-binary-trees-and-tries">myGA: Binary Trees</a>
   </td>
   <td>
