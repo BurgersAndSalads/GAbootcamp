@@ -60,7 +60,7 @@
     Project 4
   </td>
   <td>
-    <strong>Final Outcomes with Zoe</strong><br><br>
+    <strong>Final Outcomes with Zoe 2-3:30pm</strong><br><br>
     Project 4 Assessment <br><br>
     Celebrate!!
   </td>
