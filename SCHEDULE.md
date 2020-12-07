@@ -6,6 +6,96 @@
 
 ## Unit 4
 
+
+### Week 12 (Dec 7 - 11)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    <a href="computer-science/07-linked-lists">CS Topics: Linked Lists</a><br><br>
+    Project 4
+  </td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    <a href="computer-science/08-stacks-and-queues">CS Topics: Stacks and Queues</a><br><br>
+    Project 4
+  </td>
+  <td>
+    <strong>Final Presentations UXDI/SEI</strong><br><br>
+    Mock Technical Interviews<br><br>
+    <a href="computer-science/10-binary-trees-and-tries">CS Topics: Binary Trees</a>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    Project 4
+  </td>
+  <td>
+    <strong>Final Outcomes with Zoe 2-3:30pm</strong><br><br>
+    Project 4 Assessment <br><br>
+    Celebrate!!
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+    Project 4<br><br>
+    <a href="computer-science/07-linked-lists">myGA: Linked Lists</a>
+  </td>
+  <td>
+    Project 4<br><br>
+    <a href="computer-science/09-hash-tables">myGA: Hash Tables</a>
+  </td>
+  <td>
+    Project 4<br><br>
+    <a href="computer-science/08-stacks-and-queues">myGA: Stacks and Queues</a>
+  </td>
+  <td>
+    Project 4<br><br>
+    <a href="computer-science/10-binary-trees-and-tries">myGA: Binary Trees</a>
+  </td>
+  <td>
+    Finish off the <a href="computer-science/">CS Modules</a><br><br>
+    Read: <a href="w13/next-steps">Next Steps</a><br><br>
+    Celebrate!!
+  </td>
+</tr>
+
+</tbody>
+</table>
+
+
+
 ### Week 11 (Nov 30 - Dec 4)
 
 <table>
@@ -37,7 +127,12 @@
     <a href="w11/d4/token-based-auth">Token Based Auth</a>
   </td>
   <td>
-     <a href="w11/extra-resources/tips-for-getting-started-on-p4.md">P4 - Getting Started</a>
+     Possible Optional Topics (at instructor's discretion):<br>
+     <ol>
+       <li><a href="w11/d5/react-testing">Testing React Apps (TDD / Unit Testing)</a></li>
+       <li><a href="w11/d5/e2e-react-jest-puppeteer">Testing React Apps (e2e / robot chrome)</a></li>
+     </ol>
+     <a href="w11/extra-resources/tips-for-getting-started-on-p4.md">Start Work on P4</a><br><br>
   </td>
 </tr>
 
@@ -61,11 +156,10 @@
   <td>
     Possible Optional Topics (at instructor's discretion):<br>
      <ol>
-       <li>Testing React Apps</li>
-       <li>React Redux</li>
-       <li>React Native</li>
-      </ol>
-   JS/Algorithms Mock Interviews
+       <li>JS Mock Interviews</li>
+       <li><a href="w11/d5/redux">React Redux</a></li> and <a href="w11/d5/redux-lab">Redux Lab</a></li>
+       <li><a href="w11/d5/react-native-intro">Intro to React Native</a></li>
+     </ol>
   </td>
 </tr>
 
