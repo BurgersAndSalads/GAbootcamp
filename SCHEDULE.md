@@ -74,11 +74,11 @@
   </td>
   <td>
     Project 4<br><br>
-    <a href="computer-science/08-stacks-and-queues">myGA: Stacks and Queues</a>
+    <a href="computer-science/09-hash-tables">myGA: Hash Tables</a>
   </td>
   <td>
     Project 4<br><br>
-    <a href="computer-science/09-hash-tables">myGA: Hash Tables</a>
+    <a href="computer-science/08-stacks-and-queues">myGA: Stacks and Queues</a>
   </td>
   <td>
     Project 4<br><br>
