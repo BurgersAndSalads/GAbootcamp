@@ -10,7 +10,11 @@ import './GamePage.css';
 const GamePage = (props) => {
   return (
     <div className="GamePage">
-      <NavBar />
+      <NavBar 
+        user={props.user}
+        handleSignup={props.handleSignup}
+        handleLoutout={props.handleLoutout}
+      />
       <div className="flex-h align-flex-end">
         <GameBoard
           colors={props.colors}

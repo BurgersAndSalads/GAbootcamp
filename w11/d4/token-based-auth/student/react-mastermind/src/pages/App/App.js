@@ -7,6 +7,7 @@ import HighScoresPage from '../HighScoresPage/HighScoresPage';
 import SignupPage from '../SignupPage/SignupPage';
 import LoginPage from '../LoginPage/LoginPage';
 import scoresService from '../../utils/scoresService';
+import userService from '../../utils/userService';
 
 const colors = {
   Easy: ['#7CCCE5', '#FDE47F', '#E04644', '#B576AD'],
@@ -17,7 +18,13 @@ const colors = {
 class App extends Component {
   constructor() {
     super();
-    this.state = {...this.getInitialState(), difficulty: 'Easy', scores: []};
+    this.state = {
+      ...this.getInitialState(),
+      difficulty: 'Easy',
+      scores: [],
+      // Initialize user if there's a token, otherwise null
+      user: userService.getUser()
+    };
   }
 
   getInitialState() {
@@ -180,6 +187,15 @@ class App extends Component {
     this.setState({ scores });
   }
 
+  handleLogout = () => {
+    userService.logout();
+    this.setState({ user: null });
+  }
+
+  handleSignup = () => {
+    this.setState({user: userService.getUser()});
+  }
+
   render() {
     let winTries = this.getWinTries();
     return (
@@ -188,6 +204,8 @@ class App extends Component {
         <Switch>
           <Route exact path='/' render={() =>
             <GamePage
+              user={this.state.user}
+              handleSignup={this.handleSignup}
               winTries={winTries}
               colors={colors[this.state.difficulty]}
               selColorIdx={this.state.selColorIdx}
@@ -199,6 +217,7 @@ class App extends Component {
               handlePegClick={this.handlePegClick}
               handleScoreClick={this.handleScoreClick}
               handleTimerUpdate={this.handleTimerUpdate}
+              handleLogout={this.handleLogout}
             />
           }/>
           <Route exact path='/settings' render={props => 
